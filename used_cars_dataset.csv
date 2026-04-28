@@ -1,0 +1,2001 @@
+Brand_Model,Engine_Type,Condition,Region,Year,Mileage,Price
+Mercedes-Benz C-Class,Diesel,Excellent,Samara,2010,95469,680232
+Kia K5,Electric,Used,Moscow,2015,192087,262809
+Lada Niva,Diesel,Fair,Moscow,2015,154930,237580
+Renault Sandero,Diesel,Good,Krasnodar,2015,94684,484568
+Hyundai Solaris,Diesel,Fair,Rostov,2021,128902,945900
+Hyundai Tucson,Hybrid,Good,Rostov,2014,226462,433172
+Toyota Corolla,Electric,Fair,St. Petersburg,2019,14848,781453
+Toyota Corolla,Diesel,Used,Samara,2014,23279,370076
+Hyundai Tucson,Electric,Good,Moscow,2021,268004,658199
+Hyundai Creta,Hybrid,Used,Rostov,2018,293923,392829
+Kia K5,Petrol,Used,Krasnodar,2018,287046,677074
+Nissan Qashqai,Diesel,Fair,Novosibirsk,2015,36817,400241
+Mercedes-Benz E-Class,Hybrid,Fair,Kazan,2019,35358,1873086
+Nissan Qashqai,Hybrid,Good,Krasnodar,2013,99958,274490
+Toyota RAV4,Diesel,Excellent,Kazan,2012,166684,171237
+Skoda Octavia,Petrol,Fair,Novosibirsk,2016,62195,583378
+Hyundai Tucson,Hybrid,Excellent,Samara,2021,211088,875740
+Renault Sandero,Hybrid,Good,Kazan,2014,220426,396768
+Lada Niva,Diesel,Good,Krasnodar,2019,17158,167690
+Nissan X-Trail,Electric,Used,Moscow,2019,159128,645707
+Skoda Octavia,Petrol,Fair,Rostov,2022,25924,1166856
+Hyundai Tucson,Hybrid,Good,Krasnodar,2013,249211,179482
+BMW 3-Series,Petrol,Used,Rostov,2010,292818,573365
+Volkswagen Polo,Petrol,Used,Kazan,2011,186985,161193
+Hyundai Tucson,Petrol,Excellent,Krasnodar,2017,200060,575284
+Mercedes-Benz GLE,Hybrid,Used,Krasnodar,2016,235134,1066610
+Skoda Kodiaq,Electric,Excellent,Rostov,2016,269027,315160
+BMW 5-Series,Diesel,Good,Ekaterinburg,2014,70343,885742
+Nissan X-Trail,Hybrid,Excellent,Samara,2010,146109,202000
+Kia K5,Hybrid,Excellent,St. Petersburg,2013,75261,280123
+Mercedes-Benz E-Class,Electric,Excellent,Moscow,2013,131800,692073
+Volkswagen Tiguan,Electric,Excellent,Krasnodar,2011,175284,256525
+Nissan Juke,Hybrid,Used,St. Petersburg,2016,175377,440732
+Toyota Corolla,Petrol,Excellent,Krasnodar,2014,175397,449095
+Toyota Camry,Hybrid,Fair,Kazan,2011,171653,150000
+Renault Duster,Petrol,Used,Kazan,2017,73539,478604
+Lada Niva,Electric,Fair,Ekaterinburg,2022,117800,552107
+Toyota Camry,Electric,Excellent,Ekaterinburg,2022,144542,1050474
+Kia Sportage,Petrol,Excellent,St. Petersburg,2018,82094,558124
+Skoda Rapid,Diesel,Fair,Moscow,2011,73807,415192
+Nissan Juke,Petrol,Used,Krasnodar,2019,94395,602559
+Volkswagen Polo,Petrol,Used,St. Petersburg,2012,160482,154808
+Nissan Juke,Petrol,Good,Samara,2017,108425,705199
+Volkswagen Polo,Petrol,Fair,Novosibirsk,2023,255722,951550
+Mercedes-Benz E-Class,Petrol,Excellent,Samara,2023,221261,2607489
+Volkswagen Passat,Electric,Excellent,Samara,2017,180660,383209
+Nissan X-Trail,Petrol,Excellent,Krasnodar,2021,77239,938631
+Renault Duster,Petrol,Used,Novosibirsk,2015,182581,534198
+Skoda Octavia,Hybrid,Used,Krasnodar,2023,260947,976576
+Mercedes-Benz GLE,Hybrid,Good,Rostov,2020,130180,1899273
+Lada Granta,Hybrid,Excellent,Moscow,2016,160283,269610
+Renault Sandero,Diesel,Good,Moscow,2020,254432,829027
+Toyota RAV4,Diesel,Excellent,Samara,2016,56503,372004
+BMW 3-Series,Petrol,Fair,Rostov,2022,172828,2375181
+Skoda Octavia,Hybrid,Excellent,Samara,2012,173197,150000
+Volkswagen Passat,Petrol,Used,Rostov,2019,98458,799093
+Renault Duster,Petrol,Good,Rostov,2012,195634,182946
+Nissan Qashqai,Hybrid,Excellent,Krasnodar,2017,207309,416755
+Toyota Corolla,Petrol,Good,Krasnodar,2014,225521,252059
+Toyota Camry,Hybrid,Excellent,Kazan,2023,118081,1272297
+Toyota Corolla,Petrol,Excellent,Krasnodar,2020,160929,851702
+Renault Logan,Petrol,Used,Kazan,2010,107199,279412
+Lada Niva,Hybrid,Good,Rostov,2018,115782,150000
+Kia K5,Hybrid,Fair,Krasnodar,2020,66759,874568
+Lada Niva,Petrol,Fair,Rostov,2017,205547,150000
+Kia Rio,Petrol,Excellent,Krasnodar,2019,291101,466732
+Volkswagen Tiguan,Hybrid,Excellent,Ekaterinburg,2019,56409,696798
+Hyundai Solaris,Diesel,Good,Rostov,2018,203667,515944
+Kia Sportage,Hybrid,Excellent,Novosibirsk,2011,179431,339477
+Mercedes-Benz GLE,Hybrid,Used,Samara,2024,122008,3292367
+Skoda Octavia,Electric,Used,Kazan,2016,167373,566779
+Renault Logan,Electric,Fair,Samara,2020,263153,610961
+BMW 3-Series,Electric,Excellent,Novosibirsk,2018,223521,1545032
+Toyota Camry,Diesel,Good,Kazan,2014,214035,433076
+Volkswagen Passat,Hybrid,Excellent,Novosibirsk,2016,11765,600774
+Volkswagen Polo,Hybrid,Used,Krasnodar,2017,181611,655182
+Renault Duster,Hybrid,Excellent,Rostov,2013,15176,444517
+Nissan Qashqai,Hybrid,Used,St. Petersburg,2021,144890,825921
+Renault Duster,Diesel,Good,Krasnodar,2023,18799,1409767
+Kia K5,Diesel,Good,Ekaterinburg,2014,128452,451384
+Hyundai Solaris,Petrol,Fair,Samara,2010,246189,179938
+BMW 3-Series,Petrol,Used,Krasnodar,2013,30565,799760
+BMW 5-Series,Hybrid,Good,Krasnodar,2020,61987,2180208
+Skoda Kodiaq,Electric,Fair,St. Petersburg,2012,7190,307550
+Skoda Octavia,Diesel,Used,Samara,2021,133515,865975
+Nissan Qashqai,Diesel,Used,St. Petersburg,2012,246312,345637
+Renault Logan,Hybrid,Excellent,Krasnodar,2020,215463,667438
+Mercedes-Benz E-Class,Petrol,Used,Novosibirsk,2012,15532,676139
+Toyota RAV4,Hybrid,Excellent,Rostov,2016,43836,458226
+Lada Granta,Hybrid,Excellent,Krasnodar,2011,28876,207819
+Skoda Kodiaq,Diesel,Fair,Rostov,2022,129963,1074634
+Hyundai Solaris,Electric,Good,Ekaterinburg,2010,264269,150000
+Mercedes-Benz C-Class,Diesel,Excellent,Kazan,2018,90500,1752253
+Kia Sportage,Petrol,Good,Rostov,2010,118472,337260
+Mercedes-Benz GLE,Electric,Used,Samara,2023,218121,2713830
+Kia Rio,Hybrid,Excellent,Ekaterinburg,2022,141244,1082800
+Volkswagen Polo,Hybrid,Excellent,Kazan,2011,117564,250412
+BMW X5,Electric,Excellent,St. Petersburg,2020,299686,1566483
+Mercedes-Benz E-Class,Diesel,Used,Krasnodar,2016,44905,1154908
+Nissan X-Trail,Diesel,Good,Ekaterinburg,2013,24634,260300
+Volkswagen Passat,Petrol,Fair,St. Petersburg,2020,254813,717828
+Lada Granta,Electric,Used,Moscow,2018,151433,180531
+BMW X5,Petrol,Used,Kazan,2015,103948,945759
+Renault Logan,Diesel,Used,Krasnodar,2024,158693,1174955
+Mercedes-Benz GLE,Electric,Good,Novosibirsk,2015,52108,999640
+Toyota Corolla,Diesel,Used,Samara,2016,296232,518199
+Nissan Qashqai,Electric,Fair,Krasnodar,2019,41529,828416
+Kia Rio,Hybrid,Used,Ekaterinburg,2017,148342,640499
+Volkswagen Tiguan,Petrol,Excellent,Krasnodar,2014,139333,314091
+Hyundai Creta,Hybrid,Used,Rostov,2024,213097,1105548
+Volkswagen Tiguan,Petrol,Fair,Samara,2013,41710,274910
+Toyota Corolla,Hybrid,Good,Ekaterinburg,2011,37172,275124
+Kia Rio,Diesel,Excellent,Ekaterinburg,2017,70289,671817
+Toyota Corolla,Petrol,Excellent,Novosibirsk,2015,153113,384415
+Nissan X-Trail,Petrol,Fair,Rostov,2017,29922,538291
+Toyota Corolla,Diesel,Used,Novosibirsk,2024,42270,1364613
+Skoda Kodiaq,Hybrid,Fair,Moscow,2017,127604,541398
+Toyota Camry,Petrol,Good,Kazan,2020,60659,833080
+Hyundai Creta,Hybrid,Excellent,Rostov,2024,247316,1232664
+Lada Granta,Hybrid,Excellent,Rostov,2010,55450,150000
+Volkswagen Polo,Diesel,Good,Ekaterinburg,2017,160000,464890
+Renault Duster,Diesel,Good,Samara,2018,239007,445990
+Mercedes-Benz GLE,Electric,Excellent,Novosibirsk,2019,250925,1640682
+Lada Granta,Electric,Fair,Moscow,2019,250311,262323
+Renault Logan,Hybrid,Used,Kazan,2012,172896,376453
+Lada Niva,Petrol,Used,St. Petersburg,2024,272746,455023
+Toyota RAV4,Diesel,Good,Samara,2023,270482,1102034
+Renault Duster,Electric,Good,St. Petersburg,2020,240450,625927
+BMW 3-Series,Hybrid,Used,Novosibirsk,2014,152239,1028580
+Nissan Qashqai,Hybrid,Fair,Ekaterinburg,2016,94181,447484
+Toyota RAV4,Diesel,Used,St. Petersburg,2022,35663,1207481
+Nissan Qashqai,Hybrid,Used,Moscow,2016,28153,631150
+Kia K5,Electric,Excellent,Novosibirsk,2017,161180,506019
+Mercedes-Benz C-Class,Electric,Fair,Novosibirsk,2015,111725,962529
+Lada Vesta,Diesel,Fair,Samara,2015,74255,167030
+Renault Logan,Electric,Used,Samara,2016,129672,468660
+Renault Logan,Diesel,Fair,Moscow,2013,242955,266526
+Hyundai Creta,Hybrid,Fair,Rostov,2017,127995,665196
+Mercedes-Benz C-Class,Hybrid,Used,Ekaterinburg,2022,45460,2722568
+Lada Granta,Electric,Used,Krasnodar,2018,193509,150000
+Renault Logan,Diesel,Used,Samara,2019,295548,495340
+Mercedes-Benz GLE,Hybrid,Good,St. Petersburg,2013,256857,637113
+BMW X5,Electric,Excellent,Ekaterinburg,2010,276319,596046
+Renault Duster,Hybrid,Used,Kazan,2016,40834,662125
+Renault Sandero,Petrol,Fair,Moscow,2011,148137,170287
+Mercedes-Benz E-Class,Electric,Good,Rostov,2014,133584,971580
+Renault Logan,Diesel,Excellent,St. Petersburg,2010,170925,301055
+Hyundai Solaris,Hybrid,Good,Moscow,2015,80563,358531
+Hyundai Solaris,Hybrid,Fair,Ekaterinburg,2016,299107,419628
+Hyundai Solaris,Diesel,Excellent,Krasnodar,2012,11363,258631
+Skoda Kodiaq,Hybrid,Used,Krasnodar,2022,158868,1085224
+Volkswagen Passat,Petrol,Excellent,Ekaterinburg,2010,287704,213129
+Renault Logan,Hybrid,Excellent,Krasnodar,2017,165627,562270
+Skoda Octavia,Diesel,Excellent,Rostov,2018,130652,711620
+Mercedes-Benz C-Class,Diesel,Fair,Novosibirsk,2017,5032,1669069
+Lada Vesta,Electric,Excellent,Samara,2012,260176,150000
+Nissan Juke,Hybrid,Excellent,Ekaterinburg,2018,62253,786746
+Hyundai Tucson,Petrol,Used,St. Petersburg,2011,269411,150000
+Volkswagen Passat,Petrol,Excellent,Samara,2023,67150,1314555
+Renault Sandero,Petrol,Excellent,Samara,2016,22460,393178
+Kia K5,Electric,Fair,Kazan,2019,63864,847485
+Mercedes-Benz GLE,Petrol,Used,Novosibirsk,2012,246309,562049
+Kia Rio,Electric,Used,Kazan,2015,204645,363008
+Skoda Octavia,Diesel,Fair,Ekaterinburg,2018,72583,542732
+Renault Logan,Electric,Good,Krasnodar,2020,120840,729580
+BMW 5-Series,Electric,Used,Krasnodar,2016,240505,1039701
+BMW 3-Series,Electric,Good,Krasnodar,2018,96737,1579805
+Hyundai Tucson,Petrol,Used,Ekaterinburg,2018,30935,708365
+Mercedes-Benz C-Class,Electric,Good,Ekaterinburg,2019,89565,1936949
+Volkswagen Tiguan,Electric,Excellent,St. Petersburg,2019,41152,913691
+BMW X5,Hybrid,Excellent,Krasnodar,2011,229219,611303
+Skoda Rapid,Petrol,Used,Krasnodar,2023,286774,1092129
+Volkswagen Tiguan,Diesel,Used,Krasnodar,2022,118176,942439
+Mercedes-Benz GLE,Diesel,Used,Kazan,2016,243174,950414
+Lada Niva,Diesel,Fair,Samara,2017,47911,150000
+Skoda Kodiaq,Hybrid,Fair,Ekaterinburg,2012,164751,259742
+Nissan X-Trail,Diesel,Used,Samara,2019,221271,515122
+Skoda Kodiaq,Electric,Excellent,Moscow,2020,128139,828204
+Kia Rio,Electric,Fair,Novosibirsk,2014,205588,373789
+BMW X5,Petrol,Fair,Moscow,2015,195723,1006130
+Hyundai Creta,Diesel,Good,Samara,2012,221766,223550
+Kia Rio,Petrol,Fair,Kazan,2011,288442,343926
+Renault Logan,Petrol,Used,St. Petersburg,2023,232092,1121487
+Hyundai Solaris,Petrol,Used,Novosibirsk,2021,130218,784692
+Renault Logan,Petrol,Good,Krasnodar,2010,41162,150000
+Renault Logan,Electric,Fair,Rostov,2011,10971,327626
+Hyundai Tucson,Hybrid,Excellent,Kazan,2010,226857,152443
+Lada Vesta,Diesel,Fair,Novosibirsk,2011,100292,150000
+Nissan Qashqai,Hybrid,Fair,Rostov,2020,110447,680749
+Hyundai Creta,Diesel,Excellent,Krasnodar,2018,24177,654522
+Renault Logan,Petrol,Excellent,Kazan,2016,204747,352978
+Toyota Camry,Diesel,Fair,Novosibirsk,2023,178915,1189971
+Mercedes-Benz E-Class,Hybrid,Good,Ekaterinburg,2020,61989,2106982
+Nissan Juke,Petrol,Excellent,Ekaterinburg,2021,226166,684346
+Mercedes-Benz GLE,Hybrid,Fair,Rostov,2011,97045,679006
+Nissan Qashqai,Petrol,Used,Novosibirsk,2021,156470,878670
+Lada Vesta,Petrol,Used,Moscow,2021,267686,265475
+BMW X5,Electric,Good,St. Petersburg,2017,285935,1216655
+Volkswagen Polo,Petrol,Good,Kazan,2014,175271,305791
+Skoda Octavia,Petrol,Excellent,Samara,2011,78401,310698
+Toyota Corolla,Electric,Fair,Samara,2020,121820,692094
+Mercedes-Benz E-Class,Electric,Good,Kazan,2019,180986,1643355
+Volkswagen Tiguan,Hybrid,Excellent,Moscow,2023,226940,1211443
+BMW X5,Diesel,Used,Ekaterinburg,2018,165033,1638603
+Kia K5,Petrol,Fair,St. Petersburg,2012,158712,164799
+Toyota Camry,Petrol,Good,Moscow,2011,74603,312927
+Volkswagen Tiguan,Petrol,Good,Novosibirsk,2024,48485,1427026
+Mercedes-Benz E-Class,Diesel,Excellent,Krasnodar,2023,294907,2611243
+Mercedes-Benz E-Class,Petrol,Excellent,Novosibirsk,2020,84761,2036229
+Mercedes-Benz C-Class,Diesel,Fair,Rostov,2022,94605,2779168
+Mercedes-Benz C-Class,Electric,Used,Moscow,2011,67449,730306
+Volkswagen Tiguan,Diesel,Excellent,Kazan,2020,123284,806061
+BMW 5-Series,Petrol,Fair,St. Petersburg,2019,110778,1706472
+Skoda Kodiaq,Hybrid,Used,Ekaterinburg,2021,244458,927191
+Skoda Kodiaq,Petrol,Good,Samara,2018,222152,679037
+Nissan Qashqai,Petrol,Used,Ekaterinburg,2018,151410,744498
+Hyundai Tucson,Hybrid,Fair,Krasnodar,2024,286537,1291456
+Kia K5,Hybrid,Used,Novosibirsk,2022,127861,1058944
+Lada Vesta,Hybrid,Excellent,Samara,2014,115782,279527
+BMW X5,Electric,Fair,Moscow,2014,110437,999087
+Toyota Corolla,Hybrid,Excellent,St. Petersburg,2024,22436,1538973
+BMW 3-Series,Diesel,Used,Novosibirsk,2022,43245,2722230
+Renault Duster,Electric,Fair,Rostov,2020,138740,725075
+BMW X5,Electric,Excellent,Krasnodar,2016,205670,1068791
+Mercedes-Benz C-Class,Petrol,Good,Rostov,2014,15251,1077579
+Nissan Juke,Hybrid,Fair,Samara,2012,292767,293409
+Lada Granta,Electric,Excellent,Ekaterinburg,2020,117825,299827
+Toyota Corolla,Hybrid,Good,Moscow,2019,279671,683020
+Toyota RAV4,Petrol,Excellent,Krasnodar,2017,141066,577358
+Lada Granta,Electric,Good,Novosibirsk,2018,64663,189293
+Lada Granta,Petrol,Fair,Moscow,2015,19977,163171
+Skoda Kodiaq,Diesel,Fair,St. Petersburg,2017,108135,500296
+Mercedes-Benz C-Class,Electric,Excellent,Ekaterinburg,2017,189743,1275302
+Nissan Qashqai,Diesel,Excellent,Novosibirsk,2023,147660,1196962
+Toyota RAV4,Hybrid,Good,Novosibirsk,2024,24868,1373818
+Kia K5,Electric,Good,Samara,2021,95823,1020749
+Mercedes-Benz GLE,Hybrid,Good,Samara,2021,204983,2092608
+Volkswagen Polo,Electric,Used,Krasnodar,2015,217766,380317
+BMW X5,Electric,Excellent,Samara,2011,295219,603884
+Mercedes-Benz C-Class,Hybrid,Used,Rostov,2016,19163,1232006
+Nissan Juke,Diesel,Excellent,Novosibirsk,2024,120228,1498455
+Nissan Juke,Electric,Used,Rostov,2017,117599,662902
+BMW X5,Petrol,Used,Samara,2020,248513,1672354
+Kia K5,Electric,Fair,Samara,2011,172109,150000
+Hyundai Tucson,Electric,Fair,Krasnodar,2024,269384,1234830
+Mercedes-Benz C-Class,Electric,Fair,St. Petersburg,2024,158373,3318304
+Renault Logan,Petrol,Excellent,Samara,2015,241353,382920
+Toyota RAV4,Electric,Fair,Rostov,2010,13949,272591
+Nissan Juke,Petrol,Excellent,Ekaterinburg,2019,21948,892193
+Volkswagen Tiguan,Electric,Excellent,Kazan,2012,179897,335789
+Hyundai Creta,Hybrid,Good,Rostov,2018,274916,543463
+Lada Granta,Diesel,Excellent,St. Petersburg,2010,202067,150000
+Hyundai Creta,Hybrid,Used,Novosibirsk,2014,192941,389004
+Volkswagen Tiguan,Diesel,Fair,Samara,2010,202589,308886
+Skoda Rapid,Electric,Excellent,Krasnodar,2011,29161,412676
+Volkswagen Passat,Petrol,Fair,Novosibirsk,2015,87948,434844
+Hyundai Creta,Diesel,Fair,Samara,2018,251545,559875
+Hyundai Tucson,Diesel,Good,Krasnodar,2024,84507,1381317
+Nissan Juke,Diesel,Good,Kazan,2011,64857,313496
+Volkswagen Tiguan,Hybrid,Fair,Samara,2021,168917,951232
+Renault Duster,Petrol,Excellent,Kazan,2021,148934,897429
+Lada Granta,Petrol,Used,St. Petersburg,2015,80984,150000
+Volkswagen Passat,Electric,Good,Moscow,2011,289517,305645
+Mercedes-Benz C-Class,Hybrid,Fair,Krasnodar,2017,155986,1481357
+Renault Duster,Electric,Used,Kazan,2023,269579,1051750
+Kia K5,Diesel,Fair,Novosibirsk,2013,80375,476421
+Volkswagen Polo,Diesel,Used,Krasnodar,2017,221049,511121
+BMW 5-Series,Petrol,Excellent,Samara,2011,215677,665462
+Toyota Camry,Hybrid,Used,Samara,2011,234740,352240
+Hyundai Solaris,Hybrid,Fair,Samara,2010,279033,150000
+Skoda Rapid,Electric,Fair,Moscow,2023,154061,1270895
+BMW 3-Series,Petrol,Used,Rostov,2018,197359,1586519
+Hyundai Tucson,Hybrid,Used,Novosibirsk,2024,142440,1306948
+Hyundai Solaris,Electric,Excellent,St. Petersburg,2015,102911,427536
+Hyundai Tucson,Petrol,Excellent,Kazan,2024,159256,1307219
+Toyota RAV4,Hybrid,Used,Kazan,2011,170665,233003
+Mercedes-Benz C-Class,Electric,Used,Kazan,2011,258474,700196
+Renault Logan,Diesel,Good,St. Petersburg,2021,43146,847646
+Lada Niva,Hybrid,Fair,Rostov,2011,140852,236724
+Kia K5,Petrol,Good,St. Petersburg,2016,171206,437742
+BMW 3-Series,Electric,Used,St. Petersburg,2019,194455,1666114
+Skoda Octavia,Hybrid,Fair,St. Petersburg,2022,260867,1040021
+BMW 5-Series,Hybrid,Used,St. Petersburg,2022,109338,2766973
+Skoda Octavia,Diesel,Fair,Moscow,2023,237582,1024865
+Nissan Qashqai,Electric,Good,St. Petersburg,2010,189834,306627
+Toyota Camry,Petrol,Used,Moscow,2019,176892,581335
+Nissan X-Trail,Hybrid,Excellent,Krasnodar,2012,298690,330430
+Mercedes-Benz C-Class,Petrol,Good,Kazan,2023,173258,2779843
+BMW 5-Series,Hybrid,Fair,St. Petersburg,2014,246429,869109
+Mercedes-Benz C-Class,Hybrid,Good,Samara,2011,263950,571264
+Renault Sandero,Diesel,Used,Rostov,2011,97361,150000
+Renault Sandero,Petrol,Fair,Kazan,2023,86544,1182535
+Volkswagen Passat,Diesel,Used,St. Petersburg,2011,165333,238427
+Toyota RAV4,Diesel,Excellent,St. Petersburg,2011,101645,325026
+Mercedes-Benz E-Class,Electric,Fair,Samara,2012,55967,793358
+Skoda Rapid,Petrol,Excellent,Novosibirsk,2023,283605,924414
+Lada Granta,Petrol,Used,Samara,2017,25237,294827
+Mercedes-Benz E-Class,Petrol,Fair,St. Petersburg,2014,50918,1010990
+Renault Sandero,Diesel,Excellent,Rostov,2017,139195,397637
+Toyota RAV4,Hybrid,Good,Samara,2011,233034,150000
+Nissan Qashqai,Petrol,Good,Moscow,2012,63156,180058
+Renault Duster,Petrol,Used,Ekaterinburg,2011,176406,217797
+BMW X5,Petrol,Fair,Samara,2022,11006,2767874
+Mercedes-Benz E-Class,Diesel,Good,Krasnodar,2010,256464,478427
+Mercedes-Benz E-Class,Electric,Good,Novosibirsk,2017,162048,1340801
+Skoda Octavia,Diesel,Used,Novosibirsk,2023,52255,1215251
+Nissan Juke,Hybrid,Fair,Samara,2024,219990,1160017
+Renault Duster,Electric,Excellent,Novosibirsk,2018,50516,632542
+Kia Rio,Hybrid,Good,Ekaterinburg,2017,177635,539279
+Nissan Qashqai,Diesel,Good,Moscow,2018,65614,632800
+Hyundai Tucson,Diesel,Good,Ekaterinburg,2020,88775,969733
+Kia Rio,Hybrid,Good,Samara,2011,24159,403642
+Kia Rio,Petrol,Used,Ekaterinburg,2014,119840,464151
+Volkswagen Polo,Petrol,Excellent,Moscow,2021,162611,1018569
+Mercedes-Benz C-Class,Diesel,Good,Samara,2010,276408,572100
+Volkswagen Polo,Diesel,Excellent,Ekaterinburg,2022,17251,1264881
+Hyundai Creta,Electric,Fair,St. Petersburg,2018,256631,635736
+Hyundai Tucson,Petrol,Good,Rostov,2011,182470,150000
+Lada Vesta,Diesel,Good,Ekaterinburg,2018,294957,347167
+Renault Logan,Petrol,Used,Moscow,2012,156467,326010
+Mercedes-Benz GLE,Hybrid,Good,Krasnodar,2012,143250,829488
+Hyundai Solaris,Petrol,Fair,Rostov,2011,32032,419357
+Skoda Octavia,Diesel,Good,Rostov,2014,145958,270384
+Renault Logan,Hybrid,Good,Samara,2022,21926,1053821
+Lada Vesta,Diesel,Good,Moscow,2010,267286,150000
+Lada Niva,Diesel,Good,Krasnodar,2014,21772,150000
+Mercedes-Benz E-Class,Petrol,Good,Rostov,2021,226286,2147136
+Volkswagen Passat,Petrol,Excellent,Ekaterinburg,2023,183077,1012967
+Hyundai Tucson,Hybrid,Used,St. Petersburg,2012,106520,443344
+Kia Sportage,Petrol,Used,Samara,2011,22755,150000
+Kia Sportage,Diesel,Good,Novosibirsk,2018,277446,481031
+Lada Vesta,Hybrid,Fair,Novosibirsk,2014,293060,150000
+Kia K5,Diesel,Good,Krasnodar,2017,32022,672258
+BMW X5,Diesel,Fair,Rostov,2019,108563,1715715
+Kia Rio,Diesel,Excellent,Kazan,2015,254048,482427
+Kia K5,Hybrid,Excellent,Samara,2013,15228,400565
+Kia Rio,Diesel,Good,Samara,2018,145927,485432
+Toyota Corolla,Electric,Fair,Ekaterinburg,2012,109441,168120
+Kia Rio,Electric,Fair,Krasnodar,2017,160878,655860
+BMW X5,Diesel,Excellent,Samara,2023,56181,3210846
+BMW 5-Series,Electric,Used,Samara,2010,63839,664565
+Toyota Corolla,Petrol,Good,Samara,2012,160714,184092
+Hyundai Tucson,Hybrid,Excellent,Ekaterinburg,2013,89950,306485
+BMW 3-Series,Diesel,Fair,Kazan,2020,226498,1876003
+Nissan Juke,Petrol,Fair,Kazan,2010,239600,322796
+Kia Rio,Petrol,Used,Krasnodar,2021,128276,1006818
+Hyundai Solaris,Petrol,Good,Ekaterinburg,2015,154284,333358
+Toyota RAV4,Diesel,Good,Samara,2018,181496,568206
+Kia K5,Hybrid,Excellent,Novosibirsk,2013,167493,382923
+Skoda Kodiaq,Diesel,Excellent,Novosibirsk,2014,7804,497284
+Volkswagen Passat,Diesel,Fair,Krasnodar,2016,56492,640873
+BMW X5,Hybrid,Used,Samara,2019,206166,1490384
+Renault Logan,Petrol,Fair,Novosibirsk,2011,65126,150000
+Skoda Rapid,Diesel,Excellent,Novosibirsk,2019,90602,713521
+Volkswagen Tiguan,Electric,Fair,Kazan,2016,197025,564348
+Skoda Octavia,Petrol,Good,Kazan,2015,243617,377838
+Skoda Rapid,Petrol,Good,Ekaterinburg,2013,271563,318187
+BMW X5,Diesel,Used,Ekaterinburg,2019,244905,1628650
+Renault Logan,Electric,Good,Ekaterinburg,2021,17078,884158
+Toyota Camry,Petrol,Excellent,Ekaterinburg,2019,297624,468800
+Kia K5,Petrol,Good,Novosibirsk,2018,59439,543417
+Skoda Octavia,Petrol,Fair,Samara,2011,59637,227526
+Mercedes-Benz C-Class,Diesel,Excellent,Krasnodar,2021,142197,2336659
+Kia Sportage,Electric,Excellent,Novosibirsk,2012,114351,379761
+Skoda Kodiaq,Petrol,Excellent,Samara,2015,74916,445163
+Hyundai Solaris,Electric,Excellent,Kazan,2011,236491,248141
+Skoda Kodiaq,Diesel,Excellent,Moscow,2022,286305,737783
+Nissan Qashqai,Hybrid,Used,Krasnodar,2011,34589,415157
+Renault Logan,Hybrid,Good,Moscow,2024,228575,1299686
+Toyota RAV4,Petrol,Good,Rostov,2022,297733,884886
+Kia Sportage,Petrol,Excellent,Krasnodar,2021,15941,1134846
+Mercedes-Benz GLE,Hybrid,Good,Samara,2012,251209,677872
+Nissan Juke,Diesel,Good,Samara,2016,74131,435137
+Renault Logan,Hybrid,Used,Kazan,2021,105574,1048703
+Skoda Rapid,Diesel,Fair,Rostov,2019,144557,583239
+BMW X5,Hybrid,Good,Rostov,2020,259047,1743647
+Nissan Qashqai,Petrol,Good,Rostov,2014,235197,210777
+Lada Vesta,Petrol,Good,Ekaterinburg,2019,142147,192193
+Hyundai Solaris,Hybrid,Excellent,Rostov,2016,86226,540266
+Nissan X-Trail,Diesel,Excellent,Rostov,2020,42290,819353
+Skoda Octavia,Electric,Good,Krasnodar,2017,121547,692549
+Nissan Juke,Petrol,Used,Samara,2010,280670,177090
+Hyundai Solaris,Diesel,Good,Rostov,2014,123272,457546
+Nissan Juke,Petrol,Good,Novosibirsk,2024,199552,1355576
+Mercedes-Benz GLE,Petrol,Excellent,Moscow,2024,192574,3291737
+Kia K5,Diesel,Excellent,Samara,2022,179977,1094548
+Skoda Rapid,Hybrid,Good,Samara,2016,218598,373973
+Hyundai Creta,Hybrid,Good,Kazan,2024,248104,1223537
+Volkswagen Tiguan,Hybrid,Excellent,Samara,2017,250641,609262
+Lada Vesta,Petrol,Good,Ekaterinburg,2011,216507,150000
+Nissan Juke,Diesel,Excellent,Ekaterinburg,2020,246535,767889
+Nissan Qashqai,Petrol,Excellent,Ekaterinburg,2010,216489,166764
+Kia Rio,Electric,Used,Samara,2017,133745,686470
+Volkswagen Passat,Electric,Good,Krasnodar,2010,172131,299752
+Hyundai Creta,Hybrid,Used,Moscow,2023,258664,945338
+Volkswagen Passat,Hybrid,Excellent,Samara,2013,215265,264963
+BMW X5,Diesel,Excellent,St. Petersburg,2024,234465,3066428
+Lada Granta,Diesel,Fair,Ekaterinburg,2014,290863,167012
+Mercedes-Benz GLE,Hybrid,Good,Novosibirsk,2012,93249,806459
+Renault Sandero,Petrol,Fair,Samara,2010,100578,350302
+Nissan Qashqai,Diesel,Fair,Krasnodar,2011,256876,150000
+Nissan X-Trail,Hybrid,Used,Rostov,2016,283689,362897
+Lada Granta,Electric,Good,Rostov,2010,219619,150000
+Toyota Camry,Electric,Fair,St. Petersburg,2021,232464,730032
+Nissan Qashqai,Electric,Good,St. Petersburg,2010,61121,387545
+BMW 5-Series,Electric,Used,Krasnodar,2023,66618,2989995
+Nissan Juke,Diesel,Good,Rostov,2017,62730,641058
+Hyundai Tucson,Diesel,Used,Samara,2013,216710,440307
+Kia Sportage,Diesel,Good,Rostov,2019,249805,588038
+Volkswagen Tiguan,Diesel,Excellent,Ekaterinburg,2014,119900,226749
+Kia Rio,Electric,Good,Ekaterinburg,2023,288476,1119118
+Nissan Juke,Hybrid,Good,Samara,2018,234905,489559
+BMW 3-Series,Diesel,Excellent,St. Petersburg,2020,13349,2185326
+Hyundai Tucson,Diesel,Used,Ekaterinburg,2019,52301,759286
+Kia K5,Petrol,Fair,Novosibirsk,2023,257576,912391
+Kia K5,Hybrid,Used,St. Petersburg,2018,169892,573996
+BMW 5-Series,Diesel,Excellent,Samara,2015,97434,1105608
+Renault Duster,Hybrid,Used,St. Petersburg,2017,218865,443822
+Volkswagen Polo,Hybrid,Good,Moscow,2014,172602,236100
+Volkswagen Tiguan,Petrol,Good,Krasnodar,2019,44725,759278
+BMW X5,Diesel,Fair,Rostov,2022,268759,2246789
+Kia K5,Hybrid,Used,Kazan,2012,217214,244228
+BMW 5-Series,Petrol,Excellent,Ekaterinburg,2013,221353,886673
+Mercedes-Benz C-Class,Electric,Excellent,Kazan,2020,42884,2287619
+Mercedes-Benz C-Class,Hybrid,Used,Krasnodar,2023,103816,2989802
+BMW 3-Series,Diesel,Excellent,Krasnodar,2012,257355,603668
+Hyundai Solaris,Electric,Fair,Rostov,2013,100395,437421
+Kia Sportage,Hybrid,Excellent,St. Petersburg,2011,209868,214017
+Volkswagen Tiguan,Diesel,Excellent,Kazan,2019,14366,795017
+Toyota Camry,Electric,Used,Moscow,2021,219683,857643
+Nissan X-Trail,Diesel,Fair,Kazan,2015,133103,471825
+Nissan X-Trail,Hybrid,Excellent,Moscow,2015,38607,329222
+Renault Logan,Petrol,Fair,Rostov,2013,142822,473586
+Kia Sportage,Electric,Fair,St. Petersburg,2012,270787,348405
+BMW 5-Series,Hybrid,Fair,Krasnodar,2022,19739,3006014
+Lada Granta,Petrol,Used,Rostov,2013,31820,150000
+Renault Sandero,Electric,Good,Rostov,2012,123246,399813
+Nissan X-Trail,Hybrid,Excellent,Novosibirsk,2014,267549,297929
+Kia K5,Hybrid,Used,Samara,2022,162865,1065454
+Nissan X-Trail,Electric,Excellent,Ekaterinburg,2017,137806,534712
+Mercedes-Benz GLE,Diesel,Excellent,Moscow,2019,56954,1736590
+Renault Logan,Electric,Used,Krasnodar,2016,21899,554829
+Kia Rio,Petrol,Good,Ekaterinburg,2024,281657,1219957
+Volkswagen Passat,Hybrid,Used,St. Petersburg,2021,88852,854991
+Toyota Corolla,Hybrid,Fair,St. Petersburg,2013,81478,449477
+BMW X5,Petrol,Excellent,Novosibirsk,2016,284715,1003678
+Renault Sandero,Hybrid,Excellent,Novosibirsk,2024,244560,1244923
+Renault Duster,Diesel,Fair,Krasnodar,2018,279727,645603
+Volkswagen Tiguan,Hybrid,Good,Moscow,2016,65337,544757
+Hyundai Tucson,Petrol,Good,St. Petersburg,2014,246203,349253
+Toyota RAV4,Diesel,Excellent,Kazan,2020,175234,686654
+Hyundai Solaris,Petrol,Fair,Krasnodar,2017,134559,585180
+BMW 3-Series,Electric,Fair,Rostov,2015,96684,1007291
+Renault Logan,Petrol,Fair,St. Petersburg,2016,264674,400310
+Toyota Camry,Petrol,Fair,Novosibirsk,2021,236325,886169
+BMW X5,Diesel,Used,Moscow,2016,137520,1324761
+Toyota Camry,Diesel,Fair,Krasnodar,2018,126519,646720
+Kia Sportage,Hybrid,Good,Krasnodar,2016,232896,472276
+BMW X5,Diesel,Excellent,St. Petersburg,2014,135597,778310
+Hyundai Solaris,Electric,Fair,Moscow,2011,152528,223997
+BMW X5,Electric,Fair,St. Petersburg,2010,14322,689909
+Lada Vesta,Diesel,Used,Moscow,2020,22345,433987
+Skoda Octavia,Diesel,Used,Moscow,2018,214769,644497
+Hyundai Creta,Diesel,Good,Samara,2024,233464,1163618
+Nissan X-Trail,Hybrid,Fair,Novosibirsk,2019,150397,640953
+Volkswagen Tiguan,Petrol,Fair,Samara,2019,9055,884382
+Lada Niva,Diesel,Used,Kazan,2013,191744,268442
+Kia Sportage,Hybrid,Fair,Ekaterinburg,2020,63950,958202
+Nissan X-Trail,Diesel,Excellent,Moscow,2021,174487,730694
+Nissan X-Trail,Electric,Fair,St. Petersburg,2020,36021,834014
+BMW 5-Series,Electric,Fair,Samara,2022,163610,2534582
+Skoda Octavia,Diesel,Used,St. Petersburg,2016,127485,595659
+Mercedes-Benz E-Class,Petrol,Fair,Kazan,2013,277700,570809
+Nissan Qashqai,Electric,Excellent,Rostov,2013,87993,462951
+Kia Sportage,Petrol,Good,Moscow,2012,143917,407139
+Lada Niva,Hybrid,Used,Kazan,2014,227301,150000
+Mercedes-Benz GLE,Diesel,Fair,Kazan,2020,221808,1927455
+Nissan Juke,Electric,Fair,Rostov,2022,85070,942867
+Nissan Qashqai,Hybrid,Excellent,Rostov,2012,198570,258279
+Volkswagen Tiguan,Hybrid,Used,St. Petersburg,2017,229325,432759
+Toyota RAV4,Electric,Fair,Krasnodar,2021,45242,1106948
+Renault Logan,Diesel,Used,Novosibirsk,2012,120797,196100
+Renault Logan,Hybrid,Excellent,Krasnodar,2015,103934,550450
+Mercedes-Benz E-Class,Petrol,Good,Novosibirsk,2016,147960,1215024
+Lada Granta,Diesel,Excellent,Moscow,2014,107750,279774
+Mercedes-Benz C-Class,Petrol,Good,Kazan,2012,88701,652023
+Volkswagen Passat,Electric,Used,Novosibirsk,2021,264650,793269
+Skoda Kodiaq,Electric,Fair,Novosibirsk,2024,245822,1044449
+Hyundai Creta,Diesel,Used,Samara,2022,40857,987127
+Lada Granta,Petrol,Fair,Rostov,2014,11442,150000
+Toyota Camry,Diesel,Excellent,Rostov,2017,278158,364963
+Kia K5,Diesel,Excellent,Ekaterinburg,2013,64644,390103
+Toyota Corolla,Petrol,Excellent,Samara,2010,169609,301821
+Renault Sandero,Petrol,Good,St. Petersburg,2015,57920,359359
+Toyota RAV4,Hybrid,Used,Krasnodar,2012,298305,150000
+Toyota Camry,Diesel,Excellent,Moscow,2015,92700,316394
+Lada Niva,Hybrid,Used,St. Petersburg,2018,203632,341694
+Mercedes-Benz GLE,Diesel,Fair,St. Petersburg,2011,165787,655232
+Kia Sportage,Electric,Excellent,Novosibirsk,2018,276643,580608
+Lada Niva,Electric,Fair,Novosibirsk,2016,253217,150000
+Renault Duster,Hybrid,Good,Rostov,2011,58269,333911
+Toyota RAV4,Petrol,Fair,St. Petersburg,2024,216545,1175287
+Kia Rio,Electric,Used,Samara,2024,11482,1502748
+Kia Rio,Electric,Excellent,Novosibirsk,2011,62790,182064
+Hyundai Solaris,Petrol,Fair,Kazan,2010,248264,296555
+Mercedes-Benz C-Class,Electric,Used,Krasnodar,2010,288582,567070
+Volkswagen Passat,Electric,Fair,Samara,2019,133027,626941
+Lada Granta,Diesel,Used,Samara,2015,139075,150000
+Volkswagen Passat,Electric,Good,Novosibirsk,2020,84087,793630
+Nissan X-Trail,Diesel,Good,Novosibirsk,2016,62424,656796
+Lada Granta,Hybrid,Used,Krasnodar,2018,253227,298873
+Lada Vesta,Hybrid,Used,Krasnodar,2014,7117,296719
+Volkswagen Polo,Petrol,Excellent,St. Petersburg,2010,75444,289466
+Lada Granta,Electric,Fair,Novosibirsk,2024,40068,589609
+Mercedes-Benz GLE,Hybrid,Fair,Samara,2020,60881,2157501
+Hyundai Creta,Petrol,Fair,Rostov,2011,295415,341390
+Hyundai Creta,Petrol,Fair,Krasnodar,2017,151117,533177
+Hyundai Solaris,Petrol,Used,Novosibirsk,2010,223460,351861
+Renault Duster,Electric,Fair,Samara,2010,277523,150000
+Lada Granta,Petrol,Fair,Ekaterinburg,2016,102543,235158
+Kia K5,Petrol,Used,St. Petersburg,2015,25841,327721
+Volkswagen Tiguan,Diesel,Fair,Samara,2024,12537,1488330
+Hyundai Tucson,Hybrid,Good,Samara,2022,33500,1022121
+Hyundai Solaris,Electric,Good,Kazan,2013,195934,169458
+Renault Logan,Hybrid,Excellent,Kazan,2018,142737,754925
+Hyundai Solaris,Hybrid,Good,Moscow,2022,92617,948973
+Lada Vesta,Electric,Good,St. Petersburg,2011,207482,150000
+Kia Sportage,Petrol,Excellent,Rostov,2024,45674,1317489
+Renault Sandero,Electric,Used,Rostov,2012,189987,228812
+Lada Niva,Electric,Fair,Samara,2022,104294,374959
+BMW 5-Series,Diesel,Fair,Ekaterinburg,2015,210879,1007222
+Toyota Camry,Electric,Used,Samara,2010,130273,187926
+Lada Niva,Electric,Excellent,Ekaterinburg,2017,65874,360370
+Hyundai Solaris,Diesel,Fair,Ekaterinburg,2021,75914,1000829
+Kia Rio,Hybrid,Used,Ekaterinburg,2016,129358,360634
+Renault Logan,Diesel,Excellent,Krasnodar,2018,68162,767784
+Volkswagen Tiguan,Petrol,Fair,Ekaterinburg,2021,96055,1024333
+Skoda Rapid,Petrol,Fair,Ekaterinburg,2017,43774,532896
+Volkswagen Polo,Hybrid,Fair,Kazan,2024,255961,1217174
+Nissan X-Trail,Diesel,Used,Samara,2015,32073,447395
+Kia Sportage,Electric,Fair,Novosibirsk,2011,157316,338036
+Toyota Corolla,Electric,Fair,Ekaterinburg,2018,168419,459529
+Kia K5,Petrol,Fair,St. Petersburg,2016,217321,457734
+Toyota Corolla,Electric,Fair,Moscow,2012,139858,319488
+Nissan Qashqai,Petrol,Good,Kazan,2015,162276,500627
+Lada Niva,Diesel,Used,Kazan,2021,127991,405499
+Hyundai Creta,Electric,Excellent,Ekaterinburg,2023,209324,973258
+BMW X5,Hybrid,Good,Krasnodar,2013,88775,958475
+Kia K5,Electric,Good,Novosibirsk,2014,207937,462879
+Nissan Qashqai,Petrol,Good,Moscow,2010,95794,178832
+Volkswagen Polo,Petrol,Fair,Novosibirsk,2019,182538,783517
+Kia K5,Petrol,Used,Krasnodar,2010,32860,254125
+Nissan Qashqai,Diesel,Fair,Samara,2024,151048,1268132
+Kia Sportage,Petrol,Fair,Krasnodar,2019,206925,693621
+Toyota Corolla,Electric,Excellent,St. Petersburg,2016,225351,401452
+BMW X5,Hybrid,Excellent,Rostov,2022,160178,2507209
+Volkswagen Passat,Diesel,Excellent,Krasnodar,2016,202361,535232
+Volkswagen Passat,Diesel,Used,Moscow,2014,121643,435192
+Volkswagen Tiguan,Diesel,Fair,Kazan,2017,36109,703516
+Renault Logan,Hybrid,Excellent,Ekaterinburg,2013,6780,497481
+Kia Sportage,Electric,Fair,Rostov,2020,47190,799244
+Kia Rio,Hybrid,Fair,Novosibirsk,2012,28160,378162
+Lada Niva,Hybrid,Good,Moscow,2021,92583,388665
+Volkswagen Passat,Diesel,Good,Novosibirsk,2012,174793,267944
+Nissan Juke,Petrol,Fair,Moscow,2015,117402,557171
+BMW 3-Series,Petrol,Used,Ekaterinburg,2021,66279,2394263
+Hyundai Solaris,Hybrid,Excellent,Krasnodar,2018,109926,744556
+Renault Sandero,Electric,Used,Krasnodar,2023,42233,1251554
+Toyota Corolla,Hybrid,Fair,Kazan,2011,220950,260859
+Mercedes-Benz E-Class,Petrol,Fair,Rostov,2018,259045,1323683
+BMW 5-Series,Petrol,Excellent,St. Petersburg,2012,60997,641691
+Volkswagen Passat,Electric,Fair,Samara,2022,27544,1186073
+Nissan Qashqai,Petrol,Fair,Ekaterinburg,2021,48537,1030902
+Renault Logan,Hybrid,Used,Samara,2022,136148,1127595
+Lada Niva,Hybrid,Fair,St. Petersburg,2022,71887,362168
+BMW 5-Series,Petrol,Good,Samara,2010,264434,586066
+Mercedes-Benz E-Class,Diesel,Good,Ekaterinburg,2020,280855,1742797
+Toyota RAV4,Hybrid,Good,Rostov,2020,267613,845206
+Hyundai Creta,Diesel,Used,Novosibirsk,2016,179734,310544
+Toyota RAV4,Diesel,Excellent,Samara,2023,160968,1276657
+Mercedes-Benz GLE,Diesel,Used,Novosibirsk,2014,149389,1020651
+Toyota Corolla,Diesel,Used,Moscow,2012,100851,445904
+Volkswagen Polo,Petrol,Excellent,Krasnodar,2012,226442,282744
+Toyota Corolla,Hybrid,Fair,Novosibirsk,2020,75664,922928
+Kia Rio,Diesel,Fair,Ekaterinburg,2020,209343,804454
+Nissan Qashqai,Diesel,Excellent,Novosibirsk,2014,88477,325567
+Lada Granta,Electric,Excellent,Krasnodar,2018,262808,190434
+Nissan X-Trail,Diesel,Excellent,Krasnodar,2013,202542,259377
+BMW 3-Series,Electric,Used,Kazan,2024,29272,3515391
+Toyota Corolla,Diesel,Excellent,St. Petersburg,2013,260211,409712
+Lada Granta,Petrol,Good,Novosibirsk,2022,82832,325877
+Mercedes-Benz GLE,Electric,Fair,Krasnodar,2018,31220,1610906
+Lada Niva,Electric,Used,Samara,2020,266582,369003
+Lada Granta,Hybrid,Used,Ekaterinburg,2010,178815,150000
+Volkswagen Polo,Hybrid,Used,Moscow,2023,228981,1109669
+Toyota Camry,Hybrid,Fair,Kazan,2019,180094,652304
+Renault Duster,Electric,Good,Krasnodar,2017,186413,612283
+Toyota Camry,Diesel,Fair,Moscow,2012,159304,327114
+Hyundai Solaris,Petrol,Excellent,St. Petersburg,2019,21786,919374
+Volkswagen Polo,Hybrid,Used,Krasnodar,2023,249835,955797
+Hyundai Solaris,Petrol,Fair,Samara,2019,81629,838781
+Hyundai Solaris,Diesel,Excellent,Novosibirsk,2024,156651,1199415
+Volkswagen Polo,Hybrid,Excellent,Kazan,2018,7162,649842
+BMW X5,Electric,Used,St. Petersburg,2021,298159,2016239
+BMW 5-Series,Electric,Good,Novosibirsk,2014,218594,799637
+Kia K5,Electric,Used,Kazan,2018,264396,550431
+Toyota RAV4,Petrol,Good,Moscow,2018,6947,548019
+Nissan X-Trail,Electric,Fair,Samara,2013,13812,246600
+Kia K5,Petrol,Used,Krasnodar,2015,59099,497008
+Volkswagen Polo,Petrol,Excellent,Samara,2023,141289,1066839
+Hyundai Creta,Hybrid,Good,Kazan,2012,232312,404724
+Kia K5,Petrol,Good,Moscow,2018,30935,734613
+Hyundai Creta,Hybrid,Excellent,Krasnodar,2015,244741,458544
+Mercedes-Benz C-Class,Petrol,Used,Kazan,2016,229807,1084646
+BMW 5-Series,Electric,Used,Rostov,2023,211139,2639014
+Kia Rio,Petrol,Excellent,Ekaterinburg,2019,178717,702251
+Volkswagen Passat,Petrol,Used,Krasnodar,2017,99651,485773
+Volkswagen Passat,Hybrid,Fair,Rostov,2016,21337,473907
+Volkswagen Passat,Petrol,Excellent,Ekaterinburg,2023,89205,1211507
+Volkswagen Polo,Petrol,Excellent,Moscow,2013,150089,187567
+Nissan Juke,Hybrid,Good,Kazan,2011,99040,240110
+Nissan Juke,Diesel,Excellent,Rostov,2010,294299,186093
+Nissan X-Trail,Hybrid,Excellent,Samara,2019,184197,660504
+Toyota RAV4,Petrol,Used,Novosibirsk,2014,258652,355402
+Renault Sandero,Electric,Used,Moscow,2024,60318,1519686
+Hyundai Tucson,Diesel,Excellent,Samara,2019,159739,824530
+Toyota RAV4,Hybrid,Excellent,St. Petersburg,2016,137657,547733
+BMW 5-Series,Diesel,Fair,Samara,2022,200517,2433760
+Nissan X-Trail,Petrol,Used,Rostov,2016,27771,539571
+Lada Granta,Electric,Excellent,St. Petersburg,2011,62425,150539
+BMW 5-Series,Electric,Fair,Samara,2016,23115,1333566
+Lada Vesta,Petrol,Used,Novosibirsk,2013,249489,172165
+Toyota Camry,Diesel,Good,Rostov,2018,160489,478603
+Volkswagen Polo,Petrol,Fair,Samara,2018,146292,731827
+Hyundai Solaris,Electric,Used,Kazan,2012,71708,160385
+Lada Granta,Petrol,Good,Ekaterinburg,2015,168594,150000
+Kia K5,Petrol,Good,Samara,2012,205636,173442
+Kia Rio,Petrol,Fair,Krasnodar,2011,190684,338452
+Kia Rio,Petrol,Good,Rostov,2022,299319,803551
+Volkswagen Polo,Electric,Good,Krasnodar,2024,121783,1237990
+Mercedes-Benz GLE,Electric,Fair,Novosibirsk,2014,283953,719270
+BMW 5-Series,Hybrid,Fair,Moscow,2017,38910,1567131
+Nissan X-Trail,Electric,Used,Rostov,2014,9278,476623
+Mercedes-Benz C-Class,Petrol,Good,Rostov,2014,295643,656358
+Toyota Camry,Electric,Good,Moscow,2020,13409,910189
+BMW X5,Petrol,Used,Rostov,2010,74885,459645
+Toyota RAV4,Diesel,Fair,Kazan,2024,69042,1469249
+Nissan Qashqai,Diesel,Fair,Krasnodar,2020,74962,864414
+Hyundai Tucson,Hybrid,Excellent,Ekaterinburg,2020,272399,723262
+Hyundai Creta,Hybrid,Used,Krasnodar,2019,282541,598410
+BMW 5-Series,Petrol,Excellent,Samara,2010,111329,528835
+Nissan Juke,Petrol,Fair,Ekaterinburg,2010,137507,332776
+Toyota Corolla,Hybrid,Excellent,Moscow,2010,99307,259195
+Volkswagen Passat,Electric,Used,Ekaterinburg,2015,50514,368467
+Kia Rio,Petrol,Good,Kazan,2010,152858,252765
+Toyota RAV4,Electric,Used,Samara,2022,6945,1236320
+Lada Granta,Petrol,Good,Novosibirsk,2024,262683,586953
+Mercedes-Benz C-Class,Petrol,Excellent,Novosibirsk,2020,266678,1709255
+Volkswagen Tiguan,Hybrid,Excellent,Novosibirsk,2016,128556,573841
+Hyundai Creta,Petrol,Used,St. Petersburg,2017,197540,373391
+Kia Sportage,Hybrid,Fair,Kazan,2018,159484,477447
+Skoda Kodiaq,Hybrid,Used,Rostov,2010,111143,236753
+Renault Duster,Diesel,Excellent,Samara,2011,253745,150000
+Kia K5,Petrol,Good,Samara,2011,60526,360498
+Toyota Corolla,Diesel,Fair,Krasnodar,2023,214595,1116984
+Kia K5,Electric,Fair,Kazan,2021,24581,1000831
+Nissan Qashqai,Electric,Used,Moscow,2013,141066,469619
+Lada Granta,Electric,Used,Ekaterinburg,2023,88669,429424
+Skoda Octavia,Diesel,Used,Moscow,2011,57225,306967
+Mercedes-Benz GLE,Hybrid,Excellent,Krasnodar,2015,152052,1143071
+Renault Duster,Petrol,Used,Moscow,2016,117850,348238
+Hyundai Tucson,Hybrid,Fair,St. Petersburg,2017,116719,411008
+Volkswagen Tiguan,Hybrid,Good,Ekaterinburg,2016,214351,537103
+Mercedes-Benz C-Class,Hybrid,Good,Samara,2014,15695,918690
+Volkswagen Tiguan,Petrol,Fair,Novosibirsk,2014,113666,443033
+BMW 5-Series,Petrol,Excellent,Samara,2024,182134,3267726
+Renault Duster,Electric,Excellent,Samara,2016,187939,510083
+Kia Sportage,Hybrid,Excellent,Rostov,2017,165956,381765
+Skoda Octavia,Hybrid,Used,Rostov,2022,186271,1057331
+BMW X5,Diesel,Used,Moscow,2017,93873,1533485
+Renault Logan,Hybrid,Used,Ekaterinburg,2019,181875,550345
+Renault Logan,Electric,Good,Samara,2017,106300,631796
+Volkswagen Passat,Petrol,Good,Rostov,2015,45046,587369
+BMW X5,Petrol,Excellent,Novosibirsk,2013,267988,736479
+Mercedes-Benz C-Class,Petrol,Good,Moscow,2016,258638,1155793
+Volkswagen Polo,Petrol,Good,Ekaterinburg,2015,230101,329687
+Toyota Camry,Petrol,Good,Moscow,2011,114472,332404
+Skoda Kodiaq,Petrol,Excellent,St. Petersburg,2013,59663,212406
+Hyundai Creta,Hybrid,Fair,Ekaterinburg,2019,47272,826926
+Volkswagen Tiguan,Electric,Good,Samara,2024,229366,1171376
+Lada Granta,Diesel,Used,Rostov,2013,128005,150000
+Toyota Corolla,Diesel,Good,Novosibirsk,2011,150665,232542
+Nissan Qashqai,Hybrid,Fair,Novosibirsk,2015,172034,474723
+Renault Duster,Hybrid,Good,St. Petersburg,2015,136902,277973
+Nissan X-Trail,Petrol,Fair,Moscow,2023,275322,1133801
+Kia Sportage,Hybrid,Good,Rostov,2017,193702,610441
+BMW 5-Series,Diesel,Excellent,Novosibirsk,2015,254035,816401
+Toyota Camry,Diesel,Excellent,Krasnodar,2017,283030,550881
+Lada Vesta,Petrol,Used,Kazan,2018,65238,361837
+Volkswagen Polo,Electric,Good,Rostov,2013,197946,219906
+BMW 3-Series,Petrol,Used,St. Petersburg,2024,134138,3393515
+Hyundai Creta,Diesel,Used,St. Petersburg,2019,220495,603701
+Mercedes-Benz E-Class,Electric,Good,St. Petersburg,2023,8609,3310399
+Mercedes-Benz C-Class,Petrol,Excellent,Moscow,2022,288562,2066319
+Hyundai Solaris,Diesel,Good,Moscow,2020,97942,708433
+Toyota Camry,Diesel,Excellent,Rostov,2023,189593,1018416
+Renault Sandero,Hybrid,Fair,St. Petersburg,2024,180900,1367269
+Lada Niva,Electric,Good,Moscow,2011,98775,150000
+Hyundai Solaris,Petrol,Good,Novosibirsk,2022,157564,1070339
+Skoda Rapid,Electric,Used,Novosibirsk,2021,268635,739912
+Nissan Qashqai,Petrol,Fair,St. Petersburg,2024,97601,1287702
+Hyundai Creta,Petrol,Fair,Kazan,2014,52836,357946
+Volkswagen Polo,Diesel,Fair,Samara,2015,67576,338532
+BMW 5-Series,Electric,Used,Novosibirsk,2011,119060,790891
+Nissan Juke,Hybrid,Used,Moscow,2019,214288,737138
+Mercedes-Benz GLE,Electric,Excellent,Ekaterinburg,2023,238021,2544380
+Volkswagen Polo,Electric,Fair,Kazan,2023,121396,1115947
+Nissan Qashqai,Diesel,Excellent,St. Petersburg,2013,100255,266216
+BMW X5,Petrol,Good,Krasnodar,2020,245596,1688826
+Kia Rio,Petrol,Good,St. Petersburg,2011,74541,286670
+Toyota Camry,Diesel,Good,Krasnodar,2023,105619,1220507
+BMW X5,Electric,Excellent,Samara,2015,56817,1049515
+Renault Duster,Hybrid,Good,Ekaterinburg,2011,122356,150000
+Mercedes-Benz E-Class,Electric,Used,Novosibirsk,2014,158385,1033932
+BMW 3-Series,Electric,Excellent,St. Petersburg,2020,275849,1693972
+Mercedes-Benz C-Class,Hybrid,Fair,Krasnodar,2022,90117,2610192
+Kia Sportage,Electric,Fair,Kazan,2015,186626,364725
+BMW 3-Series,Diesel,Used,Rostov,2022,87487,2631603
+Skoda Octavia,Diesel,Fair,Krasnodar,2011,73113,302083
+Skoda Kodiaq,Diesel,Fair,Rostov,2023,162785,1236823
+Volkswagen Polo,Diesel,Excellent,Kazan,2015,241516,257247
+Lada Granta,Petrol,Excellent,Ekaterinburg,2023,121966,468652
+Toyota RAV4,Hybrid,Excellent,Novosibirsk,2016,83884,517194
+Hyundai Tucson,Diesel,Used,St. Petersburg,2018,12964,838714
+Kia Rio,Hybrid,Used,Krasnodar,2023,151037,1218915
+Mercedes-Benz E-Class,Diesel,Good,Novosibirsk,2019,89233,1873204
+Toyota RAV4,Petrol,Used,Kazan,2022,289534,815440
+Hyundai Tucson,Hybrid,Fair,Krasnodar,2022,239221,805570
+Toyota Corolla,Petrol,Good,Kazan,2016,49196,377270
+Mercedes-Benz C-Class,Hybrid,Fair,St. Petersburg,2021,30024,2378329
+Lada Niva,Electric,Used,St. Petersburg,2013,68241,276026
+Nissan Qashqai,Diesel,Good,Krasnodar,2022,178107,1054832
+Toyota Corolla,Diesel,Good,Novosibirsk,2022,171228,996666
+Mercedes-Benz C-Class,Electric,Fair,Ekaterinburg,2016,43942,1433248
+Toyota Corolla,Petrol,Used,Kazan,2013,196614,305446
+BMW 5-Series,Petrol,Used,Kazan,2017,46313,1406955
+BMW X5,Hybrid,Excellent,Samara,2014,44243,1072102
+Mercedes-Benz E-Class,Electric,Fair,St. Petersburg,2022,148796,2494348
+Kia Sportage,Petrol,Excellent,Novosibirsk,2012,96759,169302
+Volkswagen Passat,Petrol,Fair,Moscow,2015,80519,359140
+BMW 5-Series,Diesel,Used,St. Petersburg,2014,220872,778426
+Skoda Rapid,Electric,Fair,Krasnodar,2011,259878,211988
+Hyundai Solaris,Diesel,Good,Rostov,2022,285214,898418
+Volkswagen Tiguan,Electric,Fair,Rostov,2020,195658,857682
+Skoda Octavia,Diesel,Good,Moscow,2020,188349,686223
+Nissan Qashqai,Diesel,Excellent,Samara,2014,115776,372846
+Nissan Qashqai,Electric,Fair,Ekaterinburg,2022,168211,851510
+Nissan Juke,Petrol,Fair,Krasnodar,2022,25608,1174307
+Skoda Octavia,Diesel,Fair,Ekaterinburg,2016,171975,481329
+Nissan X-Trail,Electric,Excellent,Moscow,2019,222827,589999
+Skoda Rapid,Diesel,Fair,Rostov,2015,29797,327805
+Mercedes-Benz E-Class,Hybrid,Used,Novosibirsk,2024,270354,3054627
+Toyota Camry,Electric,Excellent,Krasnodar,2023,116716,1172344
+BMW X5,Electric,Excellent,Ekaterinburg,2023,50515,3199184
+Volkswagen Tiguan,Petrol,Excellent,Rostov,2024,65059,1511877
+Volkswagen Polo,Petrol,Fair,Kazan,2014,227008,306836
+Renault Sandero,Petrol,Used,Moscow,2015,225184,307251
+Hyundai Creta,Petrol,Excellent,St. Petersburg,2019,266608,741882
+Volkswagen Passat,Petrol,Fair,Kazan,2010,291577,259441
+Kia Sportage,Diesel,Fair,Samara,2015,78370,343118
+Skoda Octavia,Diesel,Used,Moscow,2021,73853,814673
+Renault Sandero,Hybrid,Excellent,Moscow,2010,17706,203177
+Volkswagen Tiguan,Petrol,Excellent,Rostov,2011,71393,164446
+Renault Duster,Petrol,Excellent,Novosibirsk,2018,160100,528441
+Volkswagen Polo,Electric,Used,Samara,2013,155737,425849
+Kia K5,Petrol,Good,Krasnodar,2019,97582,754399
+Nissan Juke,Petrol,Used,Moscow,2011,188596,354302
+Nissan X-Trail,Hybrid,Used,Ekaterinburg,2012,89652,154658
+Renault Duster,Petrol,Excellent,Samara,2012,290749,150000
+BMW 5-Series,Diesel,Used,Moscow,2013,254374,783151
+BMW 3-Series,Electric,Fair,Kazan,2021,106188,2386379
+Renault Sandero,Petrol,Fair,St. Petersburg,2023,273197,1003373
+Lada Vesta,Diesel,Excellent,Novosibirsk,2017,285867,186554
+Kia Sportage,Electric,Fair,Moscow,2013,234890,298304
+Mercedes-Benz E-Class,Diesel,Good,Moscow,2015,59698,1052239
+Skoda Kodiaq,Hybrid,Good,Novosibirsk,2015,253277,469200
+Volkswagen Passat,Hybrid,Used,Moscow,2017,115168,412248
+Toyota Camry,Petrol,Good,Krasnodar,2023,215043,1161651
+Nissan X-Trail,Electric,Excellent,Rostov,2014,141703,467777
+Lada Granta,Diesel,Good,Ekaterinburg,2021,232840,264809
+Hyundai Tucson,Hybrid,Fair,Moscow,2019,28249,869978
+BMW 5-Series,Hybrid,Used,St. Petersburg,2010,236706,636957
+Lada Niva,Electric,Excellent,Novosibirsk,2011,148458,174835
+Kia K5,Electric,Good,St. Petersburg,2013,236293,188694
+Nissan Juke,Diesel,Excellent,St. Petersburg,2023,14206,1182003
+BMW X5,Petrol,Used,Moscow,2015,219808,909081
+Renault Sandero,Petrol,Fair,Rostov,2010,139220,150000
+Lada Niva,Electric,Fair,Samara,2010,88535,150000
+Hyundai Tucson,Hybrid,Good,Samara,2011,288593,150000
+Nissan X-Trail,Diesel,Good,Moscow,2019,213564,576939
+BMW X5,Petrol,Used,Moscow,2012,149479,584948
+Skoda Kodiaq,Petrol,Excellent,Moscow,2024,165021,1391133
+Hyundai Solaris,Diesel,Fair,Kazan,2013,70828,267760
+Volkswagen Tiguan,Electric,Fair,Moscow,2013,47916,256759
+Nissan Qashqai,Electric,Excellent,Rostov,2024,258847,1136410
+Lada Granta,Hybrid,Used,St. Petersburg,2021,54907,242477
+Skoda Kodiaq,Hybrid,Excellent,Rostov,2010,182880,186632
+Skoda Rapid,Petrol,Excellent,Samara,2017,61152,532675
+Toyota Camry,Diesel,Used,Krasnodar,2011,288080,226225
+Nissan Qashqai,Hybrid,Used,Samara,2019,219849,725163
+BMW X5,Petrol,Good,St. Petersburg,2011,242200,448638
+Lada Granta,Petrol,Used,Krasnodar,2019,169801,415760
+Renault Sandero,Diesel,Fair,St. Petersburg,2023,57943,1226613
+Mercedes-Benz C-Class,Hybrid,Excellent,Novosibirsk,2015,64630,1014175
+Toyota RAV4,Petrol,Fair,St. Petersburg,2019,262014,470175
+Nissan X-Trail,Hybrid,Good,Samara,2010,22271,166074
+BMW X5,Petrol,Good,Kazan,2016,234123,1021511
+Renault Sandero,Diesel,Excellent,Samara,2013,218689,434733
+Kia Sportage,Hybrid,Used,Moscow,2015,215541,263319
+BMW 3-Series,Diesel,Excellent,St. Petersburg,2011,15019,772267
+Skoda Kodiaq,Diesel,Fair,St. Petersburg,2013,139298,302164
+Kia K5,Diesel,Fair,Novosibirsk,2013,60439,358737
+Lada Vesta,Electric,Excellent,Kazan,2019,182621,150000
+Skoda Octavia,Hybrid,Excellent,Novosibirsk,2023,265747,1076807
+Mercedes-Benz GLE,Hybrid,Used,Krasnodar,2017,35286,1381698
+Skoda Kodiaq,Diesel,Excellent,Ekaterinburg,2019,262007,566831
+Volkswagen Passat,Electric,Good,Novosibirsk,2018,46484,602502
+Skoda Rapid,Hybrid,Good,Ekaterinburg,2016,250669,522916
+Toyota RAV4,Hybrid,Good,Moscow,2015,22437,318873
+Toyota Corolla,Hybrid,Excellent,Samara,2015,149707,398182
+Hyundai Creta,Diesel,Fair,Moscow,2015,216861,316310
+Toyota Corolla,Electric,Excellent,Novosibirsk,2017,236827,440757
+Toyota RAV4,Diesel,Used,Novosibirsk,2013,236160,217233
+Nissan Qashqai,Petrol,Good,Ekaterinburg,2015,148371,429073
+Renault Duster,Diesel,Excellent,Samara,2014,274549,189926
+Lada Granta,Electric,Used,Moscow,2024,200967,525607
+Kia K5,Hybrid,Excellent,Krasnodar,2017,88246,633374
+Hyundai Solaris,Diesel,Fair,Ekaterinburg,2018,38656,645918
+Lada Granta,Electric,Used,St. Petersburg,2010,160525,154324
+Lada Vesta,Hybrid,Excellent,Krasnodar,2020,72759,471252
+Mercedes-Benz C-Class,Electric,Used,Krasnodar,2024,192925,3104769
+Volkswagen Tiguan,Diesel,Good,Novosibirsk,2015,67684,449893
+Kia K5,Hybrid,Fair,Kazan,2017,288861,587414
+Skoda Kodiaq,Diesel,Used,St. Petersburg,2010,155450,205657
+Mercedes-Benz GLE,Petrol,Used,St. Petersburg,2015,86350,1087018
+Lada Niva,Electric,Used,Moscow,2023,151825,597851
+Volkswagen Polo,Diesel,Good,St. Petersburg,2010,148246,187069
+Kia Sportage,Diesel,Used,St. Petersburg,2018,183339,648822
+Renault Duster,Diesel,Excellent,Krasnodar,2022,19990,1014221
+Toyota RAV4,Electric,Used,St. Petersburg,2017,200321,488761
+Volkswagen Polo,Hybrid,Good,Novosibirsk,2020,194968,836331
+Mercedes-Benz E-Class,Hybrid,Good,St. Petersburg,2017,180477,1209932
+Nissan Juke,Petrol,Excellent,Krasnodar,2011,161820,258146
+Skoda Rapid,Hybrid,Excellent,St. Petersburg,2016,83520,631937
+Kia Rio,Diesel,Good,Samara,2012,23903,232257
+Skoda Kodiaq,Electric,Excellent,Novosibirsk,2017,141086,614928
+Mercedes-Benz E-Class,Electric,Excellent,Krasnodar,2020,239597,1749403
+BMW X5,Petrol,Fair,Novosibirsk,2013,37211,878541
+BMW 3-Series,Hybrid,Used,Krasnodar,2016,281356,1126301
+Toyota RAV4,Petrol,Used,Krasnodar,2020,100661,949231
+Renault Logan,Hybrid,Used,Kazan,2024,58403,1336589
+Nissan Juke,Electric,Excellent,Rostov,2018,13479,825768
+Skoda Rapid,Petrol,Good,Moscow,2016,280967,370497
+BMW 3-Series,Electric,Fair,Krasnodar,2022,119071,2743543
+Renault Logan,Electric,Used,Kazan,2017,158416,505305
+BMW 5-Series,Electric,Used,Novosibirsk,2016,29355,1276940
+Renault Logan,Electric,Excellent,St. Petersburg,2017,251307,546680
+Volkswagen Passat,Electric,Excellent,Kazan,2021,250575,711641
+Kia Sportage,Hybrid,Good,Kazan,2019,282004,534052
+Hyundai Tucson,Electric,Excellent,Samara,2018,6676,772594
+BMW 5-Series,Hybrid,Good,Novosibirsk,2018,189642,1580044
+Volkswagen Tiguan,Electric,Excellent,St. Petersburg,2024,166129,1205374
+Skoda Octavia,Diesel,Used,Samara,2010,230291,208908
+BMW X5,Hybrid,Used,Krasnodar,2012,232297,767921
+Toyota Camry,Petrol,Excellent,Rostov,2023,71521,1326311
+Mercedes-Benz C-Class,Hybrid,Fair,Moscow,2023,112046,3014556
+Toyota Camry,Diesel,Excellent,Moscow,2017,163692,664355
+Mercedes-Benz GLE,Petrol,Fair,Samara,2011,258733,421736
+Volkswagen Passat,Hybrid,Good,Ekaterinburg,2018,226683,664443
+Hyundai Solaris,Electric,Fair,Samara,2016,104027,587829
+Hyundai Creta,Diesel,Excellent,Novosibirsk,2012,117275,286785
+Mercedes-Benz GLE,Hybrid,Fair,Rostov,2021,254211,2085893
+Hyundai Tucson,Diesel,Excellent,Kazan,2013,9705,367457
+Lada Vesta,Hybrid,Good,Ekaterinburg,2017,268694,150000
+Skoda Kodiaq,Petrol,Excellent,Krasnodar,2022,34853,1046277
+Kia Rio,Diesel,Good,Samara,2013,225738,285636
+Lada Niva,Electric,Used,Kazan,2023,209881,299990
+Lada Granta,Petrol,Good,Rostov,2020,87235,358371
+Hyundai Tucson,Diesel,Used,St. Petersburg,2017,71032,708737
+Kia K5,Hybrid,Used,Rostov,2011,167747,385799
+BMW 3-Series,Diesel,Excellent,Moscow,2012,178237,692582
+Kia Sportage,Electric,Excellent,Krasnodar,2017,70602,607799
+Toyota RAV4,Diesel,Fair,Rostov,2024,81356,1305579
+Nissan X-Trail,Diesel,Good,Novosibirsk,2022,141233,1110803
+Toyota Camry,Electric,Fair,Novosibirsk,2012,186783,225885
+BMW 3-Series,Diesel,Fair,Rostov,2015,290958,952043
+Skoda Octavia,Petrol,Good,Samara,2021,174603,736232
+BMW 5-Series,Electric,Good,Novosibirsk,2014,183855,1029679
+Nissan Qashqai,Electric,Good,Rostov,2014,130276,428271
+Kia K5,Diesel,Fair,Rostov,2011,241622,229059
+Renault Duster,Electric,Good,Ekaterinburg,2023,121607,1134770
+Lada Granta,Petrol,Good,Novosibirsk,2011,146368,150000
+Kia Rio,Petrol,Used,Krasnodar,2019,269549,567470
+Volkswagen Tiguan,Electric,Used,Krasnodar,2020,56993,825247
+BMW 3-Series,Electric,Used,Kazan,2017,12229,1534193
+Skoda Kodiaq,Petrol,Excellent,Kazan,2014,98757,483295
+Nissan Juke,Hybrid,Good,Novosibirsk,2013,217286,241261
+Kia Sportage,Petrol,Fair,St. Petersburg,2024,106193,1377897
+Skoda Octavia,Petrol,Excellent,Krasnodar,2011,192961,284067
+Toyota Camry,Hybrid,Good,St. Petersburg,2011,194204,150000
+Renault Duster,Petrol,Excellent,Moscow,2010,52837,329367
+Toyota Corolla,Hybrid,Used,Samara,2019,143190,653851
+Skoda Rapid,Diesel,Fair,Moscow,2016,228501,334940
+Renault Logan,Diesel,Fair,Krasnodar,2011,265264,181924
+Renault Sandero,Electric,Fair,Ekaterinburg,2024,161390,1395076
+Renault Sandero,Hybrid,Good,Samara,2018,115153,746878
+Toyota Corolla,Diesel,Good,Krasnodar,2019,71813,847283
+Renault Duster,Electric,Fair,Krasnodar,2019,37389,747717
+Volkswagen Polo,Diesel,Fair,Krasnodar,2020,171501,718899
+Volkswagen Polo,Petrol,Good,Samara,2023,288158,859596
+Kia K5,Electric,Used,Ekaterinburg,2012,68136,324072
+Skoda Octavia,Electric,Excellent,St. Petersburg,2022,210655,854909
+Hyundai Tucson,Electric,Fair,Novosibirsk,2013,73185,201387
+Mercedes-Benz C-Class,Hybrid,Fair,Moscow,2021,252454,1944316
+Nissan X-Trail,Petrol,Fair,Kazan,2013,167422,462281
+Kia K5,Hybrid,Good,Kazan,2010,280230,259444
+Toyota RAV4,Petrol,Fair,Novosibirsk,2015,275652,480019
+Toyota Camry,Diesel,Fair,Novosibirsk,2020,112824,795861
+Nissan Qashqai,Petrol,Fair,Novosibirsk,2014,77114,369731
+Mercedes-Benz C-Class,Petrol,Excellent,Novosibirsk,2012,33594,833051
+Mercedes-Benz GLE,Electric,Fair,Kazan,2011,262177,636092
+Mercedes-Benz GLE,Petrol,Fair,Samara,2020,243193,1731497
+Volkswagen Polo,Petrol,Excellent,Ekaterinburg,2021,155972,870477
+BMW X5,Hybrid,Fair,St. Petersburg,2024,220482,2955818
+Volkswagen Passat,Electric,Good,Rostov,2010,131022,287829
+Mercedes-Benz C-Class,Petrol,Fair,Kazan,2021,144575,2263892
+Nissan Juke,Diesel,Used,Krasnodar,2018,257210,532632
+Hyundai Creta,Diesel,Used,Moscow,2016,203813,514658
+Skoda Octavia,Electric,Good,Krasnodar,2021,244957,732182
+Volkswagen Passat,Petrol,Good,Samara,2019,249114,764807
+Toyota Camry,Hybrid,Fair,Moscow,2017,98542,484286
+Kia K5,Electric,Good,Samara,2011,110733,304114
+Nissan Qashqai,Electric,Used,Ekaterinburg,2024,182862,1280464
+Nissan Qashqai,Hybrid,Good,Novosibirsk,2016,136554,537047
+Nissan Juke,Petrol,Used,Moscow,2015,221379,433146
+Hyundai Solaris,Electric,Good,Krasnodar,2023,29001,1150459
+Mercedes-Benz E-Class,Petrol,Excellent,Samara,2024,112456,3536673
+Toyota Camry,Petrol,Excellent,Moscow,2017,63953,549339
+Lada Granta,Hybrid,Good,Samara,2023,115628,373846
+BMW 3-Series,Electric,Good,Kazan,2017,123504,1407548
+Mercedes-Benz C-Class,Hybrid,Used,Novosibirsk,2014,213093,986776
+Volkswagen Tiguan,Diesel,Fair,Ekaterinburg,2011,63874,249600
+Hyundai Tucson,Diesel,Fair,Samara,2021,81199,1041136
+Toyota RAV4,Electric,Good,Rostov,2011,20170,190452
+Renault Sandero,Hybrid,Used,Samara,2011,226505,150000
+BMW 5-Series,Diesel,Good,Samara,2015,215552,923960
+Kia K5,Diesel,Fair,Novosibirsk,2010,89561,344087
+Nissan X-Trail,Hybrid,Fair,Krasnodar,2015,95463,534693
+Toyota Corolla,Hybrid,Fair,Rostov,2021,68548,1092448
+Lada Granta,Petrol,Good,Krasnodar,2024,114178,445733
+Skoda Kodiaq,Hybrid,Fair,St. Petersburg,2017,15303,655697
+Lada Vesta,Diesel,Used,Krasnodar,2011,38880,150000
+BMW 5-Series,Diesel,Fair,Samara,2017,113624,1295758
+BMW 3-Series,Petrol,Fair,Rostov,2012,151912,809065
+Volkswagen Polo,Petrol,Used,St. Petersburg,2013,50574,282224
+Toyota RAV4,Electric,Good,Novosibirsk,2020,221567,668970
+Toyota RAV4,Hybrid,Excellent,Ekaterinburg,2010,156436,277477
+Volkswagen Polo,Electric,Good,Novosibirsk,2020,67683,888254
+Kia K5,Diesel,Good,Krasnodar,2024,89091,1380274
+Skoda Kodiaq,Diesel,Excellent,St. Petersburg,2017,40168,714657
+Skoda Rapid,Electric,Excellent,Ekaterinburg,2011,192421,255337
+Mercedes-Benz E-Class,Hybrid,Fair,Ekaterinburg,2010,7538,527157
+BMW 3-Series,Diesel,Fair,Krasnodar,2018,35700,1710624
+Skoda Rapid,Diesel,Fair,Rostov,2015,236779,473035
+Renault Sandero,Diesel,Good,Krasnodar,2022,178311,867164
+Hyundai Solaris,Hybrid,Good,Krasnodar,2022,283620,794418
+Nissan Qashqai,Petrol,Fair,Kazan,2017,83682,635907
+Kia Rio,Petrol,Good,Rostov,2018,132879,652372
+Nissan Juke,Hybrid,Excellent,Samara,2024,253579,1073921
+Renault Sandero,Hybrid,Excellent,Kazan,2014,245995,428941
+Mercedes-Benz E-Class,Hybrid,Excellent,Rostov,2023,73094,2963635
+Lada Niva,Hybrid,Used,Krasnodar,2012,232565,150000
+Hyundai Creta,Petrol,Fair,Rostov,2022,289388,745665
+Nissan X-Trail,Petrol,Used,Samara,2020,113960,932763
+Hyundai Solaris,Petrol,Used,Ekaterinburg,2013,295787,389971
+Kia Rio,Petrol,Used,Rostov,2016,100320,640832
+Kia Rio,Electric,Fair,Moscow,2017,295948,408642
+Volkswagen Polo,Petrol,Good,Ekaterinburg,2021,132754,871648
+Hyundai Solaris,Diesel,Good,Ekaterinburg,2020,211911,592654
+Renault Logan,Diesel,Good,Moscow,2023,83979,1241574
+Lada Niva,Petrol,Good,Kazan,2011,113722,194130
+BMW 3-Series,Petrol,Good,Rostov,2014,181826,824681
+Lada Granta,Diesel,Good,Ekaterinburg,2019,281002,281726
+Hyundai Tucson,Petrol,Used,Samara,2016,266041,309385
+Lada Niva,Petrol,Fair,Moscow,2024,128303,411229
+Renault Sandero,Petrol,Excellent,Krasnodar,2019,36813,675641
+Volkswagen Tiguan,Diesel,Excellent,Rostov,2013,207824,265067
+Lada Vesta,Electric,Good,Ekaterinburg,2010,278942,150000
+Renault Duster,Diesel,Good,Krasnodar,2014,140609,295879
+Toyota Corolla,Electric,Fair,Novosibirsk,2016,160740,567874
+Toyota RAV4,Electric,Fair,Moscow,2023,57284,1178639
+BMW X5,Hybrid,Fair,Moscow,2023,192323,2750965
+Skoda Octavia,Petrol,Fair,Kazan,2019,200591,807611
+Kia Sportage,Hybrid,Fair,Ekaterinburg,2018,89952,539925
+Volkswagen Passat,Petrol,Fair,Krasnodar,2010,269016,150000
+Nissan Juke,Diesel,Used,Rostov,2012,230439,212130
+Mercedes-Benz C-Class,Petrol,Excellent,St. Petersburg,2024,218193,3078335
+Mercedes-Benz C-Class,Diesel,Excellent,Krasnodar,2012,62844,690462
+Mercedes-Benz GLE,Electric,Used,Rostov,2016,177406,1065755
+Nissan X-Trail,Petrol,Good,Rostov,2024,238023,1154423
+Lada Niva,Diesel,Used,Samara,2015,292694,216661
+BMW X5,Petrol,Excellent,Rostov,2021,78924,2461512
+Lada Granta,Hybrid,Excellent,Kazan,2024,33655,574878
+Kia Sportage,Diesel,Excellent,St. Petersburg,2019,73024,649378
+Kia Sportage,Hybrid,Fair,Ekaterinburg,2018,92865,664078
+Mercedes-Benz GLE,Hybrid,Excellent,St. Petersburg,2023,154128,3020872
+BMW X5,Diesel,Fair,St. Petersburg,2022,32701,2861432
+Hyundai Creta,Petrol,Fair,Novosibirsk,2023,157703,999199
+Lada Vesta,Electric,Fair,St. Petersburg,2014,221197,150000
+Nissan X-Trail,Petrol,Fair,Novosibirsk,2013,22711,265761
+Skoda Kodiaq,Hybrid,Fair,Kazan,2011,231727,166107
+Volkswagen Passat,Hybrid,Used,Moscow,2012,281113,180155
+Lada Granta,Petrol,Good,Kazan,2011,97832,169728
+Hyundai Solaris,Electric,Fair,Novosibirsk,2014,133928,338692
+Nissan X-Trail,Electric,Excellent,Rostov,2021,233893,946669
+Hyundai Solaris,Hybrid,Excellent,Ekaterinburg,2023,244323,1059505
+Skoda Octavia,Petrol,Used,Moscow,2014,34331,274986
+Renault Logan,Electric,Used,St. Petersburg,2010,44811,211205
+Volkswagen Polo,Petrol,Excellent,Kazan,2015,294083,246147
+Nissan X-Trail,Petrol,Fair,St. Petersburg,2014,36857,258068
+BMW X5,Diesel,Good,Rostov,2011,284307,420194
+Lada Vesta,Electric,Excellent,Samara,2016,144830,150000
+Volkswagen Polo,Electric,Good,Moscow,2013,231521,216229
+Skoda Octavia,Petrol,Excellent,Novosibirsk,2014,246429,204823
+Nissan X-Trail,Petrol,Excellent,Ekaterinburg,2019,231765,758172
+Lada Niva,Petrol,Used,Ekaterinburg,2010,142040,209932
+BMW 3-Series,Diesel,Good,Moscow,2017,268751,1075083
+Nissan X-Trail,Electric,Used,Rostov,2016,32416,625151
+Toyota Camry,Diesel,Used,Moscow,2016,125832,421287
+Renault Duster,Electric,Good,St. Petersburg,2014,179627,267709
+BMW 5-Series,Electric,Excellent,Rostov,2024,75940,3494991
+BMW 3-Series,Electric,Used,Krasnodar,2012,166902,660959
+Mercedes-Benz GLE,Diesel,Good,Rostov,2022,133014,2643218
+Skoda Octavia,Hybrid,Excellent,Krasnodar,2024,33562,1510528
+Hyundai Tucson,Petrol,Used,Moscow,2013,92846,388668
+Nissan Qashqai,Petrol,Used,Moscow,2012,102996,363260
+Skoda Octavia,Hybrid,Excellent,Moscow,2021,294613,828008
+Lada Granta,Diesel,Fair,St. Petersburg,2023,182502,553576
+Mercedes-Benz C-Class,Diesel,Good,Kazan,2010,134438,547404
+Toyota Corolla,Hybrid,Excellent,St. Petersburg,2022,198796,835070
+BMW X5,Petrol,Used,Novosibirsk,2017,13639,1394425
+Nissan Juke,Hybrid,Fair,Ekaterinburg,2017,6965,646996
+Renault Duster,Electric,Good,Kazan,2016,259518,397270
+Toyota RAV4,Hybrid,Used,Kazan,2012,166461,398784
+Lada Vesta,Petrol,Used,Ekaterinburg,2010,173854,150000
+Lada Niva,Hybrid,Good,Moscow,2013,106215,150000
+Renault Logan,Petrol,Good,Samara,2019,62790,677291
+Skoda Rapid,Diesel,Fair,Ekaterinburg,2013,185048,314023
+Kia Rio,Petrol,Good,Kazan,2016,207570,302054
+Lada Niva,Hybrid,Used,Samara,2018,265872,193042
+Toyota RAV4,Petrol,Fair,St. Petersburg,2020,59708,853796
+Hyundai Solaris,Electric,Good,St. Petersburg,2012,172829,175217
+Renault Duster,Hybrid,Excellent,Ekaterinburg,2011,60150,168844
+Volkswagen Polo,Diesel,Fair,Rostov,2019,106802,618007
+Kia Sportage,Hybrid,Good,Samara,2013,43915,368919
+Lada Vesta,Diesel,Fair,Rostov,2018,259297,333440
+Mercedes-Benz E-Class,Petrol,Good,Kazan,2020,277972,1849796
+Hyundai Creta,Electric,Good,Ekaterinburg,2021,74042,850727
+Kia K5,Electric,Good,Rostov,2011,30483,352451
+Renault Sandero,Hybrid,Good,Ekaterinburg,2010,182968,335631
+Toyota Corolla,Hybrid,Used,Moscow,2012,185139,282013
+Skoda Octavia,Hybrid,Used,Samara,2024,63439,1318252
+Toyota Corolla,Diesel,Excellent,Rostov,2017,121469,509946
+Mercedes-Benz E-Class,Hybrid,Fair,Samara,2019,220081,1578604
+BMW 3-Series,Electric,Used,Rostov,2012,81447,775427
+Skoda Rapid,Diesel,Good,Kazan,2017,103458,549229
+Toyota Corolla,Petrol,Fair,Novosibirsk,2021,142082,846455
+Nissan X-Trail,Petrol,Fair,Rostov,2020,67096,753944
+Kia K5,Hybrid,Excellent,Novosibirsk,2013,37498,244088
+Renault Duster,Hybrid,Good,Moscow,2016,298625,550089
+Lada Vesta,Electric,Fair,Novosibirsk,2018,286308,200924
+Renault Logan,Electric,Excellent,Novosibirsk,2013,213965,397549
+Lada Niva,Hybrid,Good,St. Petersburg,2010,18461,150000
+BMW 3-Series,Electric,Fair,St. Petersburg,2022,64956,2742840
+BMW X5,Diesel,Used,Novosibirsk,2018,17557,1754288
+Toyota RAV4,Diesel,Used,Novosibirsk,2024,185431,1315228
+Renault Duster,Diesel,Excellent,St. Petersburg,2019,35105,739256
+Lada Granta,Diesel,Fair,Rostov,2013,191507,150000
+Kia K5,Hybrid,Fair,Novosibirsk,2010,233274,150000
+Hyundai Creta,Electric,Fair,Kazan,2015,56120,550496
+Volkswagen Tiguan,Petrol,Good,Novosibirsk,2012,55437,406672
+Renault Sandero,Hybrid,Excellent,Kazan,2012,74077,327050
+Nissan X-Trail,Electric,Good,Krasnodar,2011,11261,150000
+Renault Sandero,Diesel,Excellent,Ekaterinburg,2019,65371,727919
+Renault Logan,Electric,Fair,Kazan,2013,97344,302832
+Volkswagen Passat,Diesel,Excellent,St. Petersburg,2019,166557,757912
+Mercedes-Benz GLE,Diesel,Used,Samara,2017,266510,1206374
+Nissan Juke,Hybrid,Used,Samara,2015,225841,379626
+Skoda Octavia,Petrol,Excellent,Ekaterinburg,2022,97899,1156450
+Hyundai Tucson,Diesel,Good,Samara,2020,128224,812486
+Kia K5,Electric,Fair,Kazan,2017,279063,415521
+Mercedes-Benz GLE,Petrol,Good,Krasnodar,2023,278120,2437079
+Toyota Camry,Hybrid,Excellent,Kazan,2021,198239,787518
+Mercedes-Benz E-Class,Diesel,Excellent,Novosibirsk,2016,297869,984023
+Mercedes-Benz E-Class,Diesel,Good,Krasnodar,2014,209065,885232
+BMW 3-Series,Electric,Excellent,Rostov,2018,140607,1399960
+Renault Sandero,Diesel,Fair,Krasnodar,2015,44158,326924
+Lada Niva,Electric,Good,St. Petersburg,2020,213483,270017
+Mercedes-Benz E-Class,Hybrid,Used,Kazan,2018,259245,1263274
+BMW X5,Hybrid,Excellent,Samara,2013,89144,988704
+Renault Logan,Petrol,Used,Krasnodar,2024,200322,1179490
+Hyundai Tucson,Hybrid,Excellent,Kazan,2024,204586,1156143
+Volkswagen Passat,Petrol,Good,St. Petersburg,2021,120081,1027594
+Nissan Qashqai,Electric,Excellent,Moscow,2011,231376,161914
+Mercedes-Benz C-Class,Petrol,Excellent,Krasnodar,2017,136071,1410994
+Hyundai Solaris,Diesel,Excellent,Ekaterinburg,2012,148367,397534
+BMW 3-Series,Petrol,Good,Ekaterinburg,2019,115663,1879435
+Hyundai Creta,Electric,Fair,Rostov,2012,158946,150000
+Toyota Camry,Electric,Fair,Krasnodar,2017,126311,437072
+Skoda Kodiaq,Petrol,Good,St. Petersburg,2022,237533,808756
+Volkswagen Tiguan,Petrol,Used,St. Petersburg,2017,266054,537007
+Kia Sportage,Petrol,Good,Krasnodar,2010,291861,150000
+Kia Rio,Hybrid,Fair,Ekaterinburg,2015,227017,310476
+Nissan Qashqai,Electric,Excellent,Rostov,2013,157959,437771
+Kia K5,Petrol,Good,Moscow,2014,92049,331664
+Skoda Kodiaq,Diesel,Fair,St. Petersburg,2021,75480,983608
+Hyundai Tucson,Electric,Used,Krasnodar,2017,109392,518105
+Kia Rio,Hybrid,Used,St. Petersburg,2018,264342,528466
+Volkswagen Passat,Diesel,Excellent,Kazan,2011,41556,174982
+Nissan Qashqai,Petrol,Fair,Novosibirsk,2022,171788,907646
+Hyundai Solaris,Electric,Fair,Novosibirsk,2012,288277,150000
+Kia Rio,Petrol,Used,Rostov,2018,207329,441776
+Lada Granta,Diesel,Used,St. Petersburg,2012,258963,150000
+Kia Sportage,Diesel,Used,St. Petersburg,2013,181802,206764
+Renault Duster,Petrol,Good,Novosibirsk,2011,242277,306792
+Lada Niva,Petrol,Fair,Samara,2017,132756,350616
+Skoda Rapid,Diesel,Excellent,Moscow,2016,213567,582863
+BMW 3-Series,Hybrid,Good,Rostov,2012,267156,528596
+Lada Niva,Electric,Excellent,Kazan,2015,157875,162146
+Renault Duster,Hybrid,Fair,Krasnodar,2012,151825,273424
+Kia Rio,Diesel,Good,Samara,2019,142446,815973
+Skoda Rapid,Diesel,Good,Novosibirsk,2013,27549,468609
+Volkswagen Polo,Petrol,Excellent,Samara,2024,174432,1295267
+BMW 3-Series,Diesel,Good,Kazan,2023,23169,3220012
+Mercedes-Benz GLE,Petrol,Excellent,Rostov,2019,43384,1937573
+Lada Vesta,Hybrid,Good,Ekaterinburg,2024,23212,501010
+Lada Niva,Diesel,Fair,Moscow,2014,213486,150000
+Lada Granta,Hybrid,Excellent,Krasnodar,2011,196695,196054
+Toyota RAV4,Electric,Fair,St. Petersburg,2015,66390,492225
+Lada Vesta,Electric,Good,Ekaterinburg,2011,180670,150000
+Renault Logan,Diesel,Good,Kazan,2024,242999,1050005
+Hyundai Tucson,Diesel,Good,Samara,2021,118429,776200
+Kia Sportage,Diesel,Good,Novosibirsk,2019,218292,517244
+Skoda Kodiaq,Diesel,Good,Ekaterinburg,2013,282937,218474
+Lada Vesta,Electric,Fair,Novosibirsk,2014,125658,170951
+Volkswagen Polo,Hybrid,Excellent,Ekaterinburg,2012,16472,244397
+Volkswagen Polo,Electric,Excellent,Moscow,2020,36691,783849
+Renault Duster,Hybrid,Excellent,Kazan,2017,78485,585532
+Toyota Camry,Petrol,Used,Moscow,2018,20827,644009
+Renault Sandero,Diesel,Excellent,Ekaterinburg,2024,107495,1314380
+BMW 5-Series,Hybrid,Used,Samara,2022,283648,2092540
+Skoda Kodiaq,Petrol,Good,Kazan,2015,72154,320759
+Mercedes-Benz E-Class,Electric,Excellent,Rostov,2016,119172,1085602
+Toyota Camry,Diesel,Fair,Kazan,2017,205102,404670
+BMW X5,Diesel,Used,Rostov,2011,124065,491686
+BMW X5,Electric,Fair,Ekaterinburg,2012,182967,655530
+Skoda Kodiaq,Electric,Good,Kazan,2016,169763,441958
+Renault Logan,Hybrid,Used,Moscow,2019,98668,611557
+Skoda Kodiaq,Electric,Used,Ekaterinburg,2019,277130,711255
+Skoda Octavia,Petrol,Excellent,Novosibirsk,2012,124744,272459
+Skoda Octavia,Diesel,Excellent,Novosibirsk,2015,144043,328130
+Toyota RAV4,Petrol,Used,Rostov,2023,295330,924770
+Nissan Juke,Electric,Used,Novosibirsk,2017,253097,498599
+Toyota Corolla,Petrol,Good,Ekaterinburg,2016,7358,440474
+Kia Rio,Diesel,Good,Krasnodar,2024,124911,1388325
+Lada Niva,Petrol,Good,Novosibirsk,2020,288716,219118
+Nissan Qashqai,Diesel,Excellent,Samara,2024,262148,1304587
+Toyota RAV4,Hybrid,Fair,St. Petersburg,2020,55009,946429
+Lada Vesta,Hybrid,Excellent,St. Petersburg,2010,236777,150000
+Renault Duster,Petrol,Used,Ekaterinburg,2014,254081,183038
+BMW X5,Petrol,Fair,Ekaterinburg,2015,96387,992733
+Lada Niva,Petrol,Fair,Kazan,2024,125673,499114
+Toyota Camry,Electric,Used,Ekaterinburg,2015,163557,397666
+Mercedes-Benz C-Class,Electric,Fair,Samara,2019,134222,1879437
+Volkswagen Polo,Electric,Fair,St. Petersburg,2022,41617,1105605
+Hyundai Tucson,Electric,Good,Samara,2018,112603,560686
+Nissan X-Trail,Electric,Used,Samara,2016,46437,563971
+Mercedes-Benz C-Class,Diesel,Fair,Samara,2024,72633,3486048
+Kia K5,Hybrid,Good,Moscow,2015,260840,256060
+Lada Granta,Electric,Good,Novosibirsk,2024,178595,420404
+Renault Duster,Electric,Used,Samara,2015,92235,351241
+Hyundai Creta,Petrol,Good,Krasnodar,2013,239128,384504
+Renault Logan,Hybrid,Excellent,Krasnodar,2021,98409,1078727
+Volkswagen Tiguan,Hybrid,Fair,Novosibirsk,2014,144874,378956
+BMW X5,Hybrid,Used,Moscow,2014,43507,904838
+BMW X5,Electric,Excellent,Novosibirsk,2022,43438,2738506
+Nissan Juke,Hybrid,Good,Rostov,2012,25881,292628
+Skoda Kodiaq,Diesel,Excellent,Novosibirsk,2013,35368,261155
+Hyundai Tucson,Hybrid,Used,Novosibirsk,2023,239981,1061774
+Nissan Juke,Petrol,Excellent,Moscow,2015,203860,507968
+Volkswagen Tiguan,Electric,Used,Krasnodar,2024,46389,1359917
+Nissan Qashqai,Hybrid,Used,Ekaterinburg,2017,155520,456154
+Lada Granta,Hybrid,Used,Ekaterinburg,2014,285539,150000
+Toyota RAV4,Petrol,Fair,Krasnodar,2020,29065,859252
+Mercedes-Benz C-Class,Diesel,Good,Kazan,2012,244012,526978
+Lada Granta,Diesel,Fair,St. Petersburg,2021,113305,299213
+Skoda Octavia,Petrol,Used,Novosibirsk,2024,61783,1457056
+Skoda Octavia,Diesel,Used,Kazan,2020,189413,682979
+Toyota RAV4,Diesel,Good,St. Petersburg,2011,145652,150000
+Hyundai Solaris,Hybrid,Used,Rostov,2018,83328,622909
+BMW X5,Diesel,Used,Moscow,2021,253828,2078046
+Lada Niva,Petrol,Good,Rostov,2022,198581,300995
+Mercedes-Benz E-Class,Hybrid,Excellent,Novosibirsk,2021,78961,2295359
+Toyota Camry,Diesel,Excellent,Krasnodar,2014,255335,285702
+BMW X5,Diesel,Excellent,Moscow,2024,45976,3514275
+Toyota RAV4,Hybrid,Excellent,Rostov,2015,184928,420095
+BMW 5-Series,Diesel,Good,Moscow,2023,56370,3254494
+Toyota Camry,Hybrid,Used,Samara,2016,60689,554850
+Skoda Octavia,Electric,Good,Rostov,2023,180700,986185
+Kia Sportage,Electric,Excellent,Kazan,2013,233111,205873
+Hyundai Tucson,Diesel,Used,Samara,2022,265791,826150
+BMW X5,Hybrid,Excellent,Samara,2012,120437,590608
+Lada Niva,Diesel,Excellent,Samara,2016,150892,212486
+Volkswagen Tiguan,Electric,Fair,Rostov,2020,228260,752832
+Lada Niva,Hybrid,Excellent,Krasnodar,2023,207298,374232
+Volkswagen Passat,Diesel,Used,Moscow,2012,222900,194605
+Kia K5,Hybrid,Used,Rostov,2019,237926,572016
+Renault Duster,Petrol,Used,Ekaterinburg,2019,167816,785667
+Hyundai Creta,Diesel,Good,Krasnodar,2013,195296,391572
+Mercedes-Benz C-Class,Hybrid,Excellent,Kazan,2015,258916,920088
+Volkswagen Tiguan,Diesel,Fair,Kazan,2017,297776,596129
+Lada Granta,Diesel,Used,Kazan,2011,84718,150000
+Skoda Rapid,Diesel,Fair,Moscow,2017,94257,560208
+Kia K5,Petrol,Fair,Ekaterinburg,2021,199768,754337
+Hyundai Creta,Petrol,Good,Rostov,2014,206550,245731
+Renault Sandero,Hybrid,Excellent,Novosibirsk,2013,236018,364284
+Volkswagen Passat,Diesel,Excellent,Ekaterinburg,2018,153199,739963
+Volkswagen Passat,Electric,Excellent,Kazan,2015,123272,533716
+Kia Rio,Petrol,Good,Kazan,2014,38179,393568
+Volkswagen Tiguan,Petrol,Used,Kazan,2012,16310,200592
+Hyundai Creta,Petrol,Good,Samara,2019,213550,606381
+Lada Vesta,Diesel,Good,Ekaterinburg,2018,31787,356148
+Skoda Kodiaq,Petrol,Excellent,Samara,2013,107320,470279
+Hyundai Tucson,Diesel,Excellent,Ekaterinburg,2018,31538,733193
+Lada Granta,Hybrid,Good,Moscow,2012,59129,150000
+Kia Rio,Electric,Good,Rostov,2019,38117,657658
+Hyundai Tucson,Petrol,Good,Rostov,2019,40503,735157
+Hyundai Tucson,Hybrid,Good,Ekaterinburg,2024,22902,1430886
+Toyota Corolla,Petrol,Used,St. Petersburg,2016,51930,564549
+Toyota Corolla,Hybrid,Excellent,Krasnodar,2013,91774,301344
+Toyota RAV4,Petrol,Fair,Kazan,2015,253789,333936
+Volkswagen Polo,Hybrid,Used,Rostov,2020,59506,858743
+Hyundai Solaris,Diesel,Fair,St. Petersburg,2019,243364,682448
+Renault Sandero,Petrol,Fair,Moscow,2013,174775,213018
+Kia K5,Diesel,Used,Samara,2014,293478,292007
+BMW 5-Series,Diesel,Good,Novosibirsk,2017,249304,1267903
+Lada Granta,Electric,Fair,Novosibirsk,2017,105135,242005
+Toyota RAV4,Diesel,Used,Krasnodar,2018,73472,660827
+Toyota RAV4,Hybrid,Fair,Krasnodar,2024,124068,1457253
+Lada Niva,Hybrid,Fair,St. Petersburg,2014,249451,178052
+Lada Niva,Diesel,Used,Novosibirsk,2013,87796,150000
+BMW 3-Series,Electric,Excellent,Ekaterinburg,2010,90120,501452
+Volkswagen Passat,Electric,Excellent,Ekaterinburg,2013,166933,336075
+Hyundai Tucson,Petrol,Fair,Rostov,2010,158844,357530
+Lada Granta,Diesel,Excellent,Ekaterinburg,2019,168614,307181
+Lada Niva,Hybrid,Used,Krasnodar,2013,77804,150000
+BMW X5,Diesel,Good,Novosibirsk,2018,80935,1533619
+Renault Sandero,Hybrid,Used,Krasnodar,2014,174098,397714
+BMW 3-Series,Petrol,Fair,Moscow,2021,240103,2129041
+Toyota Corolla,Electric,Excellent,Rostov,2015,123520,316270
+Volkswagen Tiguan,Hybrid,Used,Moscow,2019,61293,847734
+Skoda Kodiaq,Petrol,Fair,Samara,2020,210336,650594
+Renault Logan,Petrol,Fair,Novosibirsk,2011,184774,361925
+Lada Vesta,Diesel,Good,Ekaterinburg,2017,183721,168483
+Mercedes-Benz C-Class,Electric,Fair,Moscow,2013,245215,636873
+Mercedes-Benz GLE,Electric,Used,Kazan,2016,228183,1201550
+Skoda Rapid,Diesel,Excellent,Novosibirsk,2021,116234,1008408
+Lada Granta,Petrol,Used,Novosibirsk,2014,225837,184567
+Renault Logan,Hybrid,Fair,Krasnodar,2022,208848,965885
+BMW X5,Hybrid,Good,St. Petersburg,2018,106076,1657843
+Skoda Kodiaq,Petrol,Good,St. Petersburg,2022,175845,1083977
+Lada Granta,Electric,Used,Rostov,2011,119498,193894
+Kia Rio,Hybrid,Used,St. Petersburg,2013,212704,320940
+Volkswagen Polo,Electric,Excellent,Kazan,2021,168408,767499
+Renault Duster,Diesel,Fair,Samara,2016,203600,563158
+Hyundai Tucson,Electric,Used,Rostov,2014,104516,363726
+Lada Granta,Petrol,Fair,Krasnodar,2023,189686,402061
+Skoda Rapid,Hybrid,Fair,Novosibirsk,2010,217065,150000
+Hyundai Solaris,Hybrid,Good,St. Petersburg,2019,190150,666615
+Toyota Corolla,Electric,Fair,Rostov,2024,153403,1178473
+Renault Logan,Diesel,Fair,Ekaterinburg,2017,149961,660143
+Toyota Corolla,Electric,Used,Krasnodar,2017,165993,573540
+BMW 5-Series,Electric,Fair,Samara,2017,116912,1421037
+Mercedes-Benz C-Class,Diesel,Good,Ekaterinburg,2012,297699,642894
+Mercedes-Benz E-Class,Electric,Good,Moscow,2021,239574,2169382
+BMW X5,Hybrid,Excellent,Novosibirsk,2020,206166,1794633
+Lada Granta,Diesel,Excellent,Novosibirsk,2021,235620,415140
+Skoda Kodiaq,Petrol,Fair,Ekaterinburg,2012,32557,442468
+Mercedes-Benz GLE,Petrol,Fair,Novosibirsk,2010,135703,591020
+Toyota Camry,Diesel,Excellent,Rostov,2011,106488,396885
+Nissan Qashqai,Electric,Excellent,Samara,2014,108998,471100
+Nissan Qashqai,Hybrid,Excellent,Samara,2019,91003,803051
+Toyota RAV4,Diesel,Excellent,Samara,2021,177822,990902
+Volkswagen Polo,Hybrid,Fair,Krasnodar,2018,251645,684146
+Renault Sandero,Hybrid,Excellent,Samara,2015,114216,391403
+Nissan X-Trail,Diesel,Fair,St. Petersburg,2012,148774,338756
+Nissan Qashqai,Diesel,Used,Kazan,2012,70086,407613
+Mercedes-Benz GLE,Electric,Good,Krasnodar,2011,98471,729911
+Toyota Camry,Diesel,Fair,St. Petersburg,2013,170363,235482
+Toyota Corolla,Hybrid,Used,Moscow,2017,56504,579535
+Nissan X-Trail,Petrol,Excellent,Rostov,2013,286739,413241
+BMW X5,Petrol,Excellent,Rostov,2020,112758,2037102
+Renault Logan,Hybrid,Fair,Kazan,2021,226658,790492
+Mercedes-Benz GLE,Hybrid,Good,Novosibirsk,2012,278359,477577
+Nissan Juke,Hybrid,Excellent,Moscow,2021,168650,817500
+Renault Logan,Hybrid,Used,Samara,2020,38142,1020362
+BMW 5-Series,Electric,Excellent,Kazan,2019,121901,1742476
+Hyundai Creta,Hybrid,Used,Samara,2018,124922,610209
+Volkswagen Tiguan,Petrol,Good,Samara,2022,166095,1066264
+Skoda Octavia,Hybrid,Fair,Ekaterinburg,2016,154471,606965
+Lada Niva,Electric,Excellent,Krasnodar,2020,6271,223168
+BMW 5-Series,Diesel,Excellent,Moscow,2010,212384,654411
+Renault Logan,Diesel,Good,Ekaterinburg,2024,85690,1403175
+Renault Logan,Petrol,Fair,Novosibirsk,2020,16851,898591
+Kia Rio,Diesel,Good,Kazan,2013,94947,385269
+Nissan X-Trail,Electric,Used,Rostov,2019,193090,612404
+Lada Niva,Hybrid,Good,Moscow,2017,277547,150000
+Hyundai Solaris,Electric,Excellent,Kazan,2017,67128,672018
+Toyota Camry,Hybrid,Good,Novosibirsk,2013,226517,300586
+BMW 3-Series,Electric,Excellent,Ekaterinburg,2010,10716,587543
+Skoda Kodiaq,Electric,Excellent,Ekaterinburg,2011,58163,382937
+Mercedes-Benz C-Class,Hybrid,Fair,Moscow,2020,16266,2147760
+Nissan X-Trail,Diesel,Used,Samara,2010,161859,306636
+Renault Logan,Diesel,Fair,St. Petersburg,2013,175649,441299
+Lada Vesta,Petrol,Fair,Kazan,2023,178775,407172
+Hyundai Tucson,Electric,Excellent,Novosibirsk,2022,296533,814258
+Nissan Juke,Petrol,Good,Krasnodar,2018,297027,410441
+Toyota RAV4,Petrol,Used,Moscow,2020,112557,800359
+Kia Sportage,Petrol,Excellent,Moscow,2010,149174,273981
+Hyundai Solaris,Hybrid,Good,Kazan,2021,130150,1035689
+Renault Sandero,Petrol,Fair,Ekaterinburg,2012,249244,150000
+Kia Sportage,Diesel,Fair,Kazan,2021,82665,937341
+Volkswagen Tiguan,Diesel,Excellent,Novosibirsk,2017,164788,638900
+Nissan Qashqai,Hybrid,Used,St. Petersburg,2020,182863,866468
+Nissan Qashqai,Hybrid,Fair,Rostov,2012,24182,386380
+BMW 3-Series,Electric,Used,Novosibirsk,2017,290857,1289574
+Kia Sportage,Diesel,Excellent,Samara,2015,21658,531681
+Toyota Corolla,Hybrid,Fair,St. Petersburg,2013,83955,204015
+Kia Rio,Petrol,Excellent,St. Petersburg,2020,16176,916555
+Skoda Rapid,Electric,Fair,Novosibirsk,2017,200263,506051
+Lada Vesta,Petrol,Good,Krasnodar,2011,284029,200583
+Lada Niva,Hybrid,Good,Moscow,2022,253904,452182
+Toyota Corolla,Petrol,Used,Moscow,2018,229139,513152
+Kia K5,Electric,Excellent,Samara,2021,92210,851492
+Skoda Kodiaq,Petrol,Excellent,Moscow,2013,120273,272615
+BMW 5-Series,Diesel,Excellent,Novosibirsk,2020,7984,2346931
+Skoda Rapid,Hybrid,Good,Moscow,2024,240709,1247254
+Volkswagen Passat,Diesel,Used,Ekaterinburg,2019,92919,668529
+Skoda Octavia,Diesel,Good,Moscow,2019,31833,903956
+Kia K5,Hybrid,Used,Samara,2018,262432,416062
+Toyota RAV4,Diesel,Excellent,Ekaterinburg,2021,283783,838085
+Mercedes-Benz C-Class,Petrol,Excellent,Moscow,2015,276836,1049568
+BMW X5,Petrol,Used,Moscow,2014,195245,828643
+Toyota Camry,Hybrid,Fair,Kazan,2016,298049,374643
+Skoda Octavia,Petrol,Good,Rostov,2023,248078,1059675
+Lada Granta,Electric,Fair,Samara,2021,125973,335300
+BMW 5-Series,Petrol,Fair,Kazan,2018,168885,1399305
+Skoda Octavia,Diesel,Used,Moscow,2021,191326,968285
+Renault Duster,Petrol,Excellent,Moscow,2020,179109,764768
+Skoda Kodiaq,Hybrid,Good,Samara,2013,221407,279085
+Kia K5,Electric,Excellent,St. Petersburg,2018,112782,700018
+Skoda Octavia,Hybrid,Used,St. Petersburg,2017,11592,610558
+Kia K5,Electric,Excellent,Samara,2016,257146,280678
+BMW 3-Series,Petrol,Used,Rostov,2016,177278,1122179
+Skoda Rapid,Petrol,Used,Moscow,2018,27966,629254
+Renault Duster,Hybrid,Excellent,Ekaterinburg,2021,263170,752965
+BMW 3-Series,Hybrid,Excellent,Novosibirsk,2011,17436,629587
+Lada Vesta,Electric,Good,Rostov,2017,195854,207925
+BMW 3-Series,Petrol,Fair,Moscow,2012,146233,821648
+Volkswagen Tiguan,Diesel,Good,Samara,2012,91871,166041
+Nissan Juke,Diesel,Good,Rostov,2021,129337,949008
+Renault Logan,Diesel,Used,Novosibirsk,2011,203120,150000
+Skoda Octavia,Hybrid,Excellent,Krasnodar,2019,240075,529282
+Volkswagen Passat,Petrol,Fair,Samara,2024,42994,1344464
+Lada Granta,Hybrid,Used,Krasnodar,2022,36478,363432
+Hyundai Solaris,Electric,Used,Novosibirsk,2020,116569,854039
+Kia Sportage,Hybrid,Excellent,Kazan,2014,194433,358371
+Skoda Kodiaq,Petrol,Excellent,Kazan,2015,34959,530852
+Toyota RAV4,Diesel,Good,Ekaterinburg,2013,149474,255081
+BMW X5,Diesel,Good,Kazan,2018,183721,1534992
+Volkswagen Polo,Hybrid,Fair,Krasnodar,2021,192729,762009
+Nissan Juke,Petrol,Good,Moscow,2022,213158,1044346
+Mercedes-Benz GLE,Petrol,Excellent,Samara,2012,234921,592973
+Kia Sportage,Hybrid,Used,St. Petersburg,2012,28619,414676
+Toyota Corolla,Diesel,Used,Ekaterinburg,2020,38944,744230
+Volkswagen Passat,Electric,Excellent,St. Petersburg,2012,262426,356858
+Mercedes-Benz GLE,Hybrid,Excellent,Rostov,2018,193513,1602313
+Skoda Rapid,Diesel,Good,Novosibirsk,2012,7733,226523
+Skoda Rapid,Hybrid,Fair,Samara,2021,36576,1063471
+Hyundai Creta,Electric,Used,Rostov,2012,21591,398433
+Mercedes-Benz E-Class,Electric,Used,Moscow,2020,56346,2286175
+Lada Vesta,Electric,Fair,Ekaterinburg,2021,72880,439426
+Renault Sandero,Hybrid,Fair,Krasnodar,2015,82337,370162
+Volkswagen Passat,Diesel,Good,Samara,2015,18973,535784
+Toyota Corolla,Diesel,Used,Kazan,2024,279276,1161249
+Mercedes-Benz GLE,Diesel,Excellent,Kazan,2020,246957,1755290
+Hyundai Tucson,Hybrid,Fair,Moscow,2014,11782,449461
+Kia K5,Hybrid,Excellent,Krasnodar,2017,269924,568359
+Nissan Qashqai,Electric,Excellent,Rostov,2010,222180,150000
+Mercedes-Benz GLE,Electric,Used,Krasnodar,2024,60697,3614419
+Kia Rio,Electric,Used,Krasnodar,2015,208070,484562
+Toyota RAV4,Electric,Excellent,Ekaterinburg,2015,226621,419525
+Volkswagen Polo,Petrol,Used,Rostov,2015,212192,387756
+Renault Sandero,Diesel,Good,Samara,2024,147061,1354787
+Renault Sandero,Hybrid,Used,Novosibirsk,2011,246921,150000
+Mercedes-Benz C-Class,Diesel,Used,Ekaterinburg,2011,42650,704665
+Volkswagen Passat,Electric,Fair,Rostov,2016,121544,525655
+Volkswagen Polo,Hybrid,Excellent,Rostov,2020,123791,774264
+Hyundai Solaris,Hybrid,Fair,Samara,2010,48408,189439
+Renault Duster,Petrol,Fair,Samara,2015,85625,307073
+Volkswagen Polo,Diesel,Excellent,Novosibirsk,2016,198342,510125
+Toyota Camry,Diesel,Fair,Krasnodar,2024,216925,1172814
+Renault Logan,Diesel,Used,St. Petersburg,2022,249496,1009634
+Renault Duster,Petrol,Good,Kazan,2021,279003,865863
+Skoda Kodiaq,Electric,Used,Moscow,2013,158604,357691
+Mercedes-Benz GLE,Hybrid,Excellent,Kazan,2024,30039,3598508
+Renault Logan,Diesel,Excellent,St. Petersburg,2024,77531,1363105
+Lada Vesta,Diesel,Good,Novosibirsk,2022,263474,294615
+Renault Duster,Diesel,Used,Ekaterinburg,2014,229213,199192
+BMW 5-Series,Diesel,Fair,Krasnodar,2012,261132,635337
+BMW 5-Series,Diesel,Good,Ekaterinburg,2018,180445,1350797
+Kia K5,Petrol,Fair,Rostov,2012,238856,344434
+Mercedes-Benz E-Class,Petrol,Good,Krasnodar,2016,292797,1067608
+Kia Sportage,Hybrid,Used,St. Petersburg,2023,114734,1284473
+Kia Rio,Hybrid,Good,Kazan,2019,234316,593247
+BMW 3-Series,Hybrid,Excellent,Novosibirsk,2024,279824,2748289
+Kia K5,Petrol,Excellent,Rostov,2018,52123,570027
+Lada Granta,Electric,Fair,Moscow,2012,201896,150000
+Hyundai Solaris,Petrol,Used,Moscow,2011,163646,266399
+Renault Duster,Hybrid,Fair,Krasnodar,2011,130476,380224
+Kia Sportage,Hybrid,Used,Ekaterinburg,2011,122998,150000
+Kia Rio,Diesel,Used,Ekaterinburg,2019,49315,735396
+BMW 3-Series,Hybrid,Good,Novosibirsk,2021,242302,2088346
+Lada Vesta,Petrol,Fair,St. Petersburg,2020,193469,385360
+Volkswagen Passat,Hybrid,Used,Novosibirsk,2017,97070,667036
+Mercedes-Benz E-Class,Petrol,Used,Ekaterinburg,2012,100569,804169
+Renault Duster,Petrol,Fair,Krasnodar,2013,270603,290483
+Skoda Rapid,Petrol,Used,St. Petersburg,2023,254165,1060397
+BMW X5,Diesel,Fair,Kazan,2018,269967,1218708
+Hyundai Creta,Hybrid,Good,Novosibirsk,2010,267157,332542
+Lada Vesta,Electric,Fair,Ekaterinburg,2018,203700,204268
+Mercedes-Benz C-Class,Hybrid,Excellent,Novosibirsk,2021,280437,1814333
+Mercedes-Benz GLE,Electric,Used,Rostov,2022,47109,2754411
+Renault Logan,Diesel,Good,Ekaterinburg,2012,141888,156816
+Nissan Qashqai,Diesel,Fair,Kazan,2012,165491,318412
+Hyundai Tucson,Electric,Good,Novosibirsk,2023,115925,1213478
+Toyota RAV4,Electric,Fair,Novosibirsk,2012,268241,278254
+Mercedes-Benz C-Class,Diesel,Excellent,Novosibirsk,2014,84881,954707
+Toyota Camry,Hybrid,Good,St. Petersburg,2016,212039,575509
+Mercedes-Benz E-Class,Diesel,Excellent,Kazan,2013,190729,904912
+Toyota Corolla,Diesel,Fair,Rostov,2019,48689,738015
+Toyota Camry,Petrol,Fair,Ekaterinburg,2017,297977,481066
+Mercedes-Benz E-Class,Diesel,Good,Moscow,2011,212171,656859
+Renault Duster,Petrol,Good,Rostov,2014,256135,228486
+Mercedes-Benz GLE,Hybrid,Fair,Novosibirsk,2017,46154,1540726
+Renault Duster,Electric,Fair,Krasnodar,2012,202908,184242
+Mercedes-Benz C-Class,Petrol,Excellent,Moscow,2010,103836,487799
+Lada Vesta,Diesel,Used,Rostov,2015,241682,150000
+Nissan Qashqai,Petrol,Used,Krasnodar,2017,80224,703278
+Hyundai Tucson,Petrol,Fair,Novosibirsk,2015,253875,261834
+Kia K5,Hybrid,Good,Novosibirsk,2016,108436,477732
+Renault Logan,Diesel,Excellent,Rostov,2015,150519,538485
+Nissan Qashqai,Petrol,Excellent,Novosibirsk,2019,272857,704100
+BMW 3-Series,Electric,Used,Kazan,2013,253486,685775
+Nissan Qashqai,Diesel,Fair,Krasnodar,2019,286951,502056
+Skoda Rapid,Hybrid,Good,Rostov,2019,117194,715383
+Mercedes-Benz C-Class,Petrol,Used,Krasnodar,2023,15552,3372155
+Hyundai Creta,Electric,Excellent,St. Petersburg,2023,43181,1363268
+Mercedes-Benz C-Class,Hybrid,Good,Rostov,2020,33341,2277362
+Volkswagen Passat,Electric,Fair,Moscow,2015,179016,355476
+Hyundai Tucson,Petrol,Fair,Moscow,2017,287256,398032
+Renault Logan,Diesel,Fair,Kazan,2010,122490,228519
+Skoda Octavia,Diesel,Used,Samara,2022,43930,1012155
+Kia Rio,Hybrid,Fair,Moscow,2010,85352,357705
+Kia K5,Electric,Fair,Samara,2022,279226,776394
+BMW X5,Petrol,Excellent,Novosibirsk,2017,94619,1327687
+Lada Niva,Hybrid,Good,Moscow,2021,26625,258243
+Kia Sportage,Diesel,Good,St. Petersburg,2021,177780,779239
+Mercedes-Benz C-Class,Diesel,Fair,Novosibirsk,2022,290262,2264200
+BMW 5-Series,Hybrid,Used,Ekaterinburg,2010,130079,462193
+Skoda Octavia,Petrol,Fair,Krasnodar,2012,210169,271845
+Lada Granta,Electric,Good,Krasnodar,2010,183461,151760
+Renault Duster,Diesel,Fair,Novosibirsk,2017,270226,421900
+Toyota Camry,Electric,Good,Rostov,2020,277089,673809
+Volkswagen Polo,Petrol,Used,St. Petersburg,2013,20163,292604
+Toyota Camry,Electric,Excellent,St. Petersburg,2022,149127,911919
+Skoda Kodiaq,Hybrid,Used,Rostov,2021,274974,707911
+Volkswagen Tiguan,Hybrid,Excellent,Kazan,2010,117753,285357
+Renault Logan,Electric,Fair,Rostov,2019,11213,861137
+BMW X5,Hybrid,Excellent,Ekaterinburg,2022,57395,2729119
+Volkswagen Polo,Petrol,Fair,Kazan,2010,221555,329186
+Renault Logan,Diesel,Used,Novosibirsk,2019,58586,876253
+Kia Sportage,Petrol,Excellent,Krasnodar,2024,206561,1255836
+Volkswagen Tiguan,Diesel,Fair,Kazan,2021,81237,1074855
+Volkswagen Polo,Petrol,Excellent,Moscow,2024,174898,1383677
+BMW 5-Series,Hybrid,Excellent,Samara,2019,150934,1754880
+Kia Rio,Petrol,Used,Ekaterinburg,2019,177125,741435
+Kia Rio,Petrol,Fair,Samara,2017,107336,465050
+BMW 3-Series,Electric,Good,Ekaterinburg,2014,268049,887352
+Mercedes-Benz GLE,Diesel,Used,Novosibirsk,2023,239363,2788296
+Nissan Juke,Diesel,Used,Krasnodar,2017,106012,518415
+BMW 3-Series,Hybrid,Good,Moscow,2015,245173,884947
+Hyundai Solaris,Diesel,Excellent,Krasnodar,2022,86083,1203502
+Hyundai Solaris,Electric,Excellent,Rostov,2024,19391,1576398
+Hyundai Tucson,Hybrid,Excellent,Ekaterinburg,2017,133371,638259
+Nissan Juke,Petrol,Used,St. Petersburg,2020,252633,596659
+Renault Logan,Hybrid,Good,Rostov,2024,30638,1588045
+Hyundai Creta,Hybrid,Used,Moscow,2021,284167,821651
+Skoda Kodiaq,Diesel,Fair,Ekaterinburg,2018,212950,541794
+Hyundai Tucson,Diesel,Fair,Kazan,2010,178084,362065
+Mercedes-Benz E-Class,Hybrid,Excellent,Novosibirsk,2024,40864,3713243
+Mercedes-Benz E-Class,Electric,Fair,Samara,2012,76416,798414
+Nissan X-Trail,Petrol,Excellent,Moscow,2015,253180,259413
+Mercedes-Benz GLE,Hybrid,Used,Kazan,2016,212558,1155335
+Renault Sandero,Electric,Good,Samara,2019,17698,839704
+Lada Granta,Electric,Used,Moscow,2011,29084,150000
+Mercedes-Benz GLE,Diesel,Good,Kazan,2013,23957,983023
+Nissan X-Trail,Diesel,Excellent,Novosibirsk,2019,148250,624214
+Toyota RAV4,Electric,Used,Krasnodar,2011,179712,203468
+Skoda Kodiaq,Hybrid,Good,Moscow,2020,194919,607681
+Volkswagen Passat,Diesel,Used,Moscow,2011,127714,268324
+Toyota Corolla,Diesel,Good,Samara,2015,100855,544676
+Hyundai Creta,Hybrid,Fair,Krasnodar,2016,65338,397637
+Mercedes-Benz C-Class,Diesel,Used,Novosibirsk,2015,187792,1015138
+Skoda Octavia,Petrol,Excellent,Ekaterinburg,2019,198146,645928
+Nissan X-Trail,Diesel,Excellent,Samara,2016,149134,469602
+Hyundai Solaris,Hybrid,Excellent,Novosibirsk,2015,91515,448004
+Renault Sandero,Electric,Used,Ekaterinburg,2011,255583,150000
+Skoda Kodiaq,Hybrid,Good,Samara,2011,124121,265561
+Lada Vesta,Petrol,Excellent,Ekaterinburg,2010,212236,150000
+Renault Logan,Hybrid,Fair,St. Petersburg,2014,111633,512144
+Hyundai Creta,Hybrid,Used,St. Petersburg,2013,161284,215394
+Lada Vesta,Hybrid,Good,Novosibirsk,2021,155397,469491
+Mercedes-Benz E-Class,Electric,Excellent,Rostov,2022,146616,2427958
+Skoda Kodiaq,Diesel,Fair,Novosibirsk,2017,188554,371933
+Renault Sandero,Electric,Excellent,Samara,2024,83743,1446555
+Mercedes-Benz C-Class,Petrol,Fair,Novosibirsk,2023,91632,2927433
+Nissan Qashqai,Electric,Good,Samara,2012,172100,370914
+Renault Sandero,Hybrid,Fair,St. Petersburg,2022,280904,1030867
+Volkswagen Tiguan,Electric,Fair,Moscow,2021,282548,881578
+Kia K5,Diesel,Fair,Samara,2024,77185,1358638
+Nissan X-Trail,Diesel,Fair,Kazan,2017,291907,433836
+Renault Sandero,Hybrid,Good,Kazan,2021,71686,1095047
+Renault Sandero,Electric,Used,Rostov,2017,111462,654875
+Lada Niva,Hybrid,Good,Rostov,2015,89201,258536
+Kia Sportage,Electric,Good,Kazan,2013,113113,382472
+Toyota RAV4,Petrol,Good,Kazan,2017,122937,585083
+Mercedes-Benz GLE,Diesel,Used,Novosibirsk,2016,268757,997871
+Lada Granta,Electric,Excellent,Ekaterinburg,2023,84713,408990
+Skoda Octavia,Electric,Good,Samara,2022,12909,1048533
+Lada Niva,Diesel,Used,Kazan,2010,167875,225875
+BMW 5-Series,Petrol,Excellent,Krasnodar,2018,275080,1352596
+BMW 3-Series,Hybrid,Used,Novosibirsk,2024,293053,2703386
+Mercedes-Benz E-Class,Electric,Fair,Krasnodar,2010,181749,423536
+Lada Granta,Petrol,Excellent,Moscow,2024,69085,599019
+Volkswagen Passat,Electric,Used,Krasnodar,2020,151811,722647
+Toyota Camry,Electric,Used,Ekaterinburg,2023,292330,1005705
+Volkswagen Tiguan,Petrol,Used,Rostov,2010,88409,266403
+Kia Rio,Hybrid,Used,Krasnodar,2010,298663,317674
+Kia K5,Hybrid,Excellent,Ekaterinburg,2022,184415,854361
+Kia Sportage,Petrol,Used,Rostov,2015,163014,372202
+Volkswagen Passat,Hybrid,Good,St. Petersburg,2024,260824,1313204
+Nissan Juke,Petrol,Fair,St. Petersburg,2023,77525,1267310
+BMW 3-Series,Electric,Fair,Rostov,2013,205672,819489
+Lada Vesta,Petrol,Excellent,Ekaterinburg,2012,208925,150000
+Volkswagen Polo,Hybrid,Used,St. Petersburg,2021,75052,881595
+Volkswagen Polo,Electric,Used,Kazan,2013,19128,402019
+Volkswagen Tiguan,Hybrid,Excellent,Kazan,2015,34414,422701
+Kia Rio,Diesel,Good,Ekaterinburg,2016,58430,579663
+Toyota RAV4,Electric,Excellent,Ekaterinburg,2012,131841,193091
+Lada Granta,Petrol,Excellent,Rostov,2023,212505,445510
+Mercedes-Benz E-Class,Electric,Good,Krasnodar,2023,96436,3175360
+Renault Duster,Diesel,Used,Krasnodar,2013,22902,404894
+Volkswagen Polo,Diesel,Good,Krasnodar,2023,257763,976409
+Toyota Camry,Hybrid,Good,Moscow,2019,169247,599730
+Renault Duster,Diesel,Used,Ekaterinburg,2022,288326,795096
+BMW X5,Hybrid,Used,Rostov,2019,139165,1633242
+Hyundai Creta,Diesel,Fair,Krasnodar,2011,243237,150000
+Mercedes-Benz C-Class,Hybrid,Used,Samara,2020,49223,2147497
+Renault Duster,Electric,Good,Kazan,2014,217280,220783
+Renault Duster,Petrol,Excellent,Moscow,2013,135785,415169
+Skoda Octavia,Diesel,Good,Kazan,2011,178719,256857
+Kia K5,Hybrid,Used,Samara,2023,292641,1023424
+Renault Sandero,Diesel,Excellent,Krasnodar,2016,212012,515753
+Kia Rio,Diesel,Fair,Kazan,2021,154011,886836
+Skoda Rapid,Petrol,Good,St. Petersburg,2018,70422,703766
+Skoda Octavia,Electric,Used,St. Petersburg,2014,157908,471900
+Toyota RAV4,Electric,Excellent,Moscow,2020,236424,791717
+Toyota RAV4,Diesel,Excellent,Moscow,2023,118660,1254960
+Mercedes-Benz E-Class,Petrol,Fair,Kazan,2019,25022,1859824
+Lada Vesta,Hybrid,Fair,Ekaterinburg,2022,63509,328195
+BMW 3-Series,Petrol,Used,Moscow,2020,155949,1908867
+Renault Sandero,Hybrid,Fair,St. Petersburg,2020,291565,802414
+Hyundai Tucson,Electric,Excellent,Moscow,2010,139456,150000
+Mercedes-Benz E-Class,Electric,Good,Moscow,2015,45047,1196796
+Skoda Kodiaq,Diesel,Fair,Rostov,2018,7136,712028
+Kia Rio,Hybrid,Good,St. Petersburg,2010,101846,150000
+Hyundai Solaris,Electric,Excellent,Rostov,2017,42871,577323
+Lada Niva,Diesel,Used,Novosibirsk,2021,252227,233231
+Renault Logan,Diesel,Good,Kazan,2014,210668,202169
+Mercedes-Benz GLE,Diesel,Good,Rostov,2014,53574,1091421
+Renault Logan,Hybrid,Fair,St. Petersburg,2013,106052,257048
+Skoda Kodiaq,Electric,Fair,St. Petersburg,2011,128957,223027
+Mercedes-Benz GLE,Diesel,Used,Ekaterinburg,2016,231285,1176635
+Mercedes-Benz C-Class,Hybrid,Excellent,Rostov,2016,43526,1320268
+BMW X5,Diesel,Good,Krasnodar,2022,144188,2498649
+Hyundai Tucson,Hybrid,Fair,Ekaterinburg,2013,221386,194366
+BMW 5-Series,Electric,Used,Kazan,2012,114575,713500
+BMW 5-Series,Electric,Good,Kazan,2013,292835,597076
+BMW 5-Series,Diesel,Used,Moscow,2012,244944,759278
+Volkswagen Polo,Electric,Excellent,Rostov,2022,130212,1062841
+Skoda Octavia,Electric,Excellent,Kazan,2023,124671,1114120
+Hyundai Tucson,Diesel,Fair,Krasnodar,2010,191243,152815
+Renault Sandero,Petrol,Used,St. Petersburg,2016,106192,609418
+Skoda Octavia,Petrol,Fair,Samara,2014,220649,235656
+Volkswagen Tiguan,Diesel,Good,Ekaterinburg,2024,34846,1599928
+Skoda Octavia,Petrol,Good,Krasnodar,2023,291684,1059934
+Lada Niva,Diesel,Good,Moscow,2010,107450,150000
+Lada Granta,Hybrid,Good,Krasnodar,2020,137760,408974
+Skoda Octavia,Petrol,Good,Samara,2012,63834,208911
+Skoda Kodiaq,Diesel,Used,St. Petersburg,2015,14253,351316
+Renault Sandero,Electric,Excellent,St. Petersburg,2012,141620,379452
+Lada Granta,Electric,Fair,Moscow,2023,192534,579563
+Skoda Octavia,Electric,Fair,Kazan,2019,14134,897009
+Hyundai Tucson,Electric,Fair,Novosibirsk,2019,169294,555414
+Skoda Rapid,Electric,Good,Novosibirsk,2018,72770,717652
+Renault Duster,Hybrid,Fair,Moscow,2011,85718,284755
+Toyota Corolla,Diesel,Excellent,Samara,2011,230834,172394
+Toyota Corolla,Petrol,Used,St. Petersburg,2018,133073,509367
+Hyundai Creta,Petrol,Used,Rostov,2015,184532,337227
+Nissan Juke,Diesel,Excellent,Novosibirsk,2017,16362,524319
+Toyota RAV4,Petrol,Excellent,Novosibirsk,2018,182325,695627
+Hyundai Creta,Diesel,Excellent,St. Petersburg,2010,124503,270931
+Lada Niva,Hybrid,Excellent,Moscow,2015,169657,214241
+Toyota RAV4,Diesel,Excellent,Samara,2012,25164,281969
+Mercedes-Benz E-Class,Petrol,Good,Samara,2019,238372,1713311
+Kia Rio,Petrol,Excellent,Samara,2012,236187,240971
+Skoda Octavia,Diesel,Used,Rostov,2019,193693,778299
+BMW 5-Series,Hybrid,Used,Krasnodar,2013,120202,961372
+Lada Vesta,Electric,Excellent,Kazan,2024,73372,690271
+Toyota Camry,Diesel,Excellent,Krasnodar,2022,221361,890677
+Volkswagen Tiguan,Diesel,Good,Samara,2010,217464,307992
+Renault Logan,Diesel,Excellent,Krasnodar,2024,27013,1369795
+Toyota Camry,Diesel,Used,Krasnodar,2012,235373,305085
+Volkswagen Passat,Petrol,Fair,Ekaterinburg,2024,77917,1313633
+Nissan Juke,Petrol,Fair,Ekaterinburg,2023,200130,1141160
+Kia Sportage,Petrol,Excellent,Rostov,2014,27697,454900
+Skoda Octavia,Petrol,Fair,Novosibirsk,2012,19104,324368
+Renault Sandero,Hybrid,Used,Novosibirsk,2015,164803,295291
+Nissan Qashqai,Electric,Fair,Rostov,2011,220653,150000
+Volkswagen Polo,Diesel,Excellent,Kazan,2022,268850,904632
+Nissan X-Trail,Petrol,Used,Ekaterinburg,2015,290972,265788
+Lada Granta,Electric,Good,Krasnodar,2013,258346,150000
+BMW X5,Hybrid,Used,Ekaterinburg,2012,297581,464516
+Volkswagen Polo,Petrol,Good,St. Petersburg,2016,56484,394453
+Volkswagen Polo,Electric,Fair,Krasnodar,2023,8483,1380315
+BMW 5-Series,Petrol,Used,Rostov,2019,136613,1731092
+Renault Sandero,Hybrid,Fair,Ekaterinburg,2019,195758,620477
+Renault Sandero,Hybrid,Excellent,Novosibirsk,2014,237776,363146
+Skoda Rapid,Petrol,Used,Novosibirsk,2015,179633,331096
+Toyota Camry,Petrol,Used,Moscow,2011,112005,344081
+Skoda Octavia,Diesel,Excellent,Krasnodar,2017,144598,644949
+BMW 5-Series,Hybrid,Used,Samara,2016,262412,931001
+Volkswagen Passat,Electric,Good,Novosibirsk,2021,262117,696213
+Renault Sandero,Diesel,Good,Rostov,2018,100367,580337
+Skoda Rapid,Petrol,Excellent,Rostov,2012,215730,338709
+Kia Rio,Petrol,Fair,Novosibirsk,2019,234449,680521
+Skoda Kodiaq,Diesel,Excellent,Krasnodar,2018,206073,658675
+Mercedes-Benz C-Class,Petrol,Fair,Kazan,2022,156589,2454362
+Nissan X-Trail,Diesel,Used,Moscow,2024,178692,1218705
+Hyundai Creta,Hybrid,Good,Krasnodar,2017,105892,447414
+Hyundai Creta,Petrol,Good,Ekaterinburg,2010,120571,296243
+Volkswagen Tiguan,Hybrid,Excellent,Rostov,2017,204371,624306
+BMW X5,Electric,Good,Moscow,2024,75331,3584859
+Mercedes-Benz C-Class,Hybrid,Good,St. Petersburg,2020,151674,1910362
+Toyota RAV4,Electric,Fair,Krasnodar,2020,171124,805942
+Volkswagen Polo,Petrol,Good,Rostov,2018,110511,755460
+Nissan X-Trail,Hybrid,Good,Ekaterinburg,2010,263896,220248
+Skoda Kodiaq,Hybrid,Fair,St. Petersburg,2017,272777,577591
+Volkswagen Tiguan,Hybrid,Used,Krasnodar,2021,187952,788260
+Skoda Rapid,Electric,Excellent,Rostov,2012,197254,256863
+Lada Vesta,Diesel,Used,St. Petersburg,2021,187964,221195
+Hyundai Creta,Diesel,Used,Moscow,2011,209419,150000
+Kia K5,Hybrid,Fair,Rostov,2017,41214,502060
+Kia K5,Hybrid,Excellent,Novosibirsk,2017,150865,481382
+Nissan X-Trail,Hybrid,Fair,Samara,2019,255459,555587
+Nissan X-Trail,Electric,Used,Moscow,2010,275595,330156
+Hyundai Tucson,Petrol,Good,St. Petersburg,2018,275127,455318
+Volkswagen Passat,Diesel,Fair,Kazan,2018,76193,741886
+Lada Niva,Petrol,Used,Rostov,2014,195204,150000
+Volkswagen Polo,Diesel,Fair,Krasnodar,2016,162308,562240
+Mercedes-Benz C-Class,Petrol,Excellent,Krasnodar,2011,278685,488177
+Renault Duster,Electric,Good,Novosibirsk,2023,215666,994793
+Skoda Kodiaq,Diesel,Fair,Ekaterinburg,2015,101885,375228
+Volkswagen Polo,Electric,Used,Rostov,2021,36691,989449
+Toyota Camry,Diesel,Good,St. Petersburg,2015,118763,468496
+Nissan Qashqai,Hybrid,Used,Kazan,2012,39480,395182
+Skoda Kodiaq,Petrol,Excellent,St. Petersburg,2015,217570,258187
+Nissan X-Trail,Diesel,Used,Samara,2020,231261,857614
+Hyundai Tucson,Hybrid,Fair,Rostov,2020,49745,804468
+BMW X5,Electric,Fair,Ekaterinburg,2018,264472,1404589
+Volkswagen Passat,Electric,Excellent,St. Petersburg,2022,9935,1276333
+Toyota Camry,Petrol,Fair,Samara,2012,288576,342183
+Renault Sandero,Hybrid,Fair,Kazan,2015,92522,293459
+Skoda Kodiaq,Electric,Used,Novosibirsk,2021,176650,955210
+Toyota RAV4,Electric,Good,Novosibirsk,2014,232299,254718
+Renault Duster,Petrol,Excellent,Ekaterinburg,2010,119226,150000
+Lada Granta,Diesel,Good,Rostov,2019,79599,409721
+Nissan Juke,Hybrid,Good,Novosibirsk,2012,28547,458646
+BMW 3-Series,Electric,Fair,Rostov,2019,210045,1660482
+Volkswagen Tiguan,Electric,Excellent,Kazan,2023,126250,1298125
+Lada Vesta,Electric,Fair,Samara,2010,175487,150000
+Renault Logan,Hybrid,Used,St. Petersburg,2014,21087,310878
+Mercedes-Benz C-Class,Diesel,Used,Ekaterinburg,2020,280345,1799996
+Nissan X-Trail,Electric,Excellent,Samara,2024,161205,1267128
+Lada Granta,Hybrid,Good,Ekaterinburg,2020,272985,392973
+Skoda Kodiaq,Hybrid,Good,Krasnodar,2024,161570,1336189
+Lada Vesta,Petrol,Used,Ekaterinburg,2011,194902,161275
+Renault Sandero,Electric,Excellent,Novosibirsk,2016,145922,620386
+Volkswagen Tiguan,Electric,Good,Samara,2023,269411,1029532
+Mercedes-Benz E-Class,Petrol,Fair,Krasnodar,2017,189870,1254531
+Renault Duster,Petrol,Fair,Samara,2019,216322,527196
+Kia Rio,Petrol,Used,St. Petersburg,2016,232194,451170
+BMW 3-Series,Hybrid,Used,Ekaterinburg,2020,259678,1900958
+Volkswagen Passat,Petrol,Excellent,Kazan,2017,89501,629263
+Toyota Corolla,Hybrid,Good,Rostov,2012,279812,211110
+BMW 5-Series,Electric,Excellent,Moscow,2022,65727,2626871
+Renault Logan,Petrol,Excellent,Novosibirsk,2023,17150,1413150
+Lada Niva,Petrol,Good,Novosibirsk,2017,269389,150000
+Mercedes-Benz E-Class,Hybrid,Fair,Samara,2018,231806,1436793
+BMW 3-Series,Electric,Good,Rostov,2013,23297,1003410
+Skoda Octavia,Petrol,Used,Krasnodar,2014,215600,469869
+Volkswagen Tiguan,Diesel,Used,Rostov,2021,119629,884153
+Hyundai Creta,Diesel,Excellent,St. Petersburg,2012,127253,231886
+Volkswagen Tiguan,Petrol,Used,Ekaterinburg,2022,161963,1066469
+Toyota Corolla,Electric,Fair,Novosibirsk,2018,166187,720286
+Nissan X-Trail,Hybrid,Good,Krasnodar,2010,201916,150923
+Volkswagen Polo,Hybrid,Fair,Moscow,2011,234264,211648
+BMW 5-Series,Diesel,Fair,Rostov,2023,296812,2605447
+Nissan X-Trail,Hybrid,Used,Krasnodar,2022,143956,963582
+Toyota RAV4,Diesel,Used,Samara,2023,95633,1161117
+Lada Vesta,Diesel,Excellent,Rostov,2012,255289,150000
+Toyota Camry,Diesel,Used,Moscow,2022,56984,1203411
+BMW 3-Series,Hybrid,Fair,Samara,2012,18525,867652
+Skoda Kodiaq,Hybrid,Excellent,Ekaterinburg,2017,99649,531006
+Toyota Corolla,Petrol,Good,Rostov,2021,204492,805739
+Renault Sandero,Diesel,Fair,Ekaterinburg,2014,270883,352975
+Skoda Rapid,Electric,Excellent,Samara,2010,78679,241299
+BMW 5-Series,Hybrid,Used,Novosibirsk,2011,34038,589850
+Volkswagen Polo,Diesel,Fair,Kazan,2024,219851,1290424
+Toyota RAV4,Electric,Used,Ekaterinburg,2013,164700,256069
+Lada Granta,Petrol,Excellent,Moscow,2020,92243,412427
+Skoda Octavia,Hybrid,Good,St. Petersburg,2015,79133,423828
+Toyota Camry,Petrol,Fair,Ekaterinburg,2017,275547,617542
+Kia Sportage,Hybrid,Used,Novosibirsk,2014,297684,454623
+Kia K5,Hybrid,Good,Samara,2017,133834,457612
+Nissan X-Trail,Electric,Good,Moscow,2019,139612,555317
+BMW X5,Petrol,Fair,Krasnodar,2016,261305,1082346
+BMW 5-Series,Diesel,Used,Ekaterinburg,2012,264287,683386
+Volkswagen Polo,Petrol,Fair,St. Petersburg,2018,45796,556121
+Skoda Rapid,Hybrid,Used,Kazan,2011,132803,281364
+Mercedes-Benz C-Class,Diesel,Excellent,St. Petersburg,2017,6787,1654671
+Nissan Qashqai,Electric,Fair,Samara,2017,167818,484821
+Renault Sandero,Hybrid,Excellent,Samara,2017,297011,566184
+Skoda Octavia,Electric,Fair,Moscow,2010,137017,181679
+Lada Niva,Hybrid,Excellent,Samara,2024,191916,391105
+BMW 3-Series,Hybrid,Fair,Rostov,2021,20497,2457727
+Lada Granta,Diesel,Used,Ekaterinburg,2015,289884,150000
+Volkswagen Tiguan,Electric,Used,St. Petersburg,2016,21242,497728
+Skoda Rapid,Petrol,Fair,Samara,2020,245058,676515
+Hyundai Tucson,Electric,Excellent,Moscow,2017,85622,520442
+Nissan Juke,Electric,Good,Kazan,2013,286980,214983
+Renault Sandero,Petrol,Fair,Novosibirsk,2011,154410,150000
+Mercedes-Benz C-Class,Hybrid,Good,St. Petersburg,2017,299470,1067976
+Hyundai Creta,Diesel,Good,Ekaterinburg,2010,173838,279373
+Kia Rio,Hybrid,Fair,Moscow,2021,235062,771957
+Volkswagen Polo,Diesel,Good,Novosibirsk,2014,89010,251300
+Toyota Camry,Diesel,Used,Kazan,2011,24856,150000
+BMW 3-Series,Diesel,Excellent,Samara,2021,208004,2103241
+Hyundai Tucson,Petrol,Excellent,Rostov,2011,249637,150000
+Hyundai Tucson,Petrol,Excellent,Krasnodar,2024,249709,1331560
+Mercedes-Benz GLE,Petrol,Fair,Moscow,2013,115091,862061
+Lada Vesta,Hybrid,Used,Ekaterinburg,2020,192734,347940
+Hyundai Solaris,Hybrid,Excellent,Kazan,2013,125792,309716
+Nissan Qashqai,Diesel,Fair,St. Petersburg,2016,171578,326370
+Hyundai Tucson,Diesel,Good,Ekaterinburg,2023,221924,986481
+Mercedes-Benz GLE,Electric,Fair,Novosibirsk,2012,268574,589524
+BMW 3-Series,Diesel,Excellent,Novosibirsk,2014,240994,832959
+BMW X5,Hybrid,Used,Novosibirsk,2016,98752,1348177
+Volkswagen Passat,Electric,Fair,Ekaterinburg,2014,278789,427029
+Mercedes-Benz E-Class,Diesel,Excellent,Samara,2023,245930,2737954
+Lada Niva,Diesel,Fair,St. Petersburg,2015,9350,229964
+Volkswagen Passat,Hybrid,Fair,Samara,2024,14265,1412623
+BMW X5,Electric,Excellent,Rostov,2020,132394,1907164
+Toyota Camry,Electric,Good,Kazan,2022,175647,851654
+Skoda Octavia,Hybrid,Fair,Samara,2012,122690,364021
+Volkswagen Tiguan,Diesel,Used,Samara,2016,173398,373439
+Renault Logan,Hybrid,Fair,Novosibirsk,2012,227435,242519
+Kia K5,Electric,Fair,Ekaterinburg,2014,13292,378829
+Volkswagen Polo,Petrol,Fair,Kazan,2020,129678,772170
+Renault Duster,Diesel,Good,Samara,2015,254108,343642
+Mercedes-Benz C-Class,Hybrid,Used,Krasnodar,2014,66741,898173
+Kia K5,Diesel,Fair,Krasnodar,2011,7373,182236
+Hyundai Tucson,Hybrid,Used,St. Petersburg,2016,207523,449838
+Lada Granta,Hybrid,Used,Rostov,2018,207459,150000
+Kia Sportage,Petrol,Good,Novosibirsk,2010,110948,353461
+Renault Logan,Hybrid,Excellent,Kazan,2011,242664,150000
+Hyundai Tucson,Diesel,Fair,Krasnodar,2019,294974,537879
+Hyundai Solaris,Electric,Excellent,Krasnodar,2022,73870,1147873
+Kia K5,Hybrid,Fair,Krasnodar,2021,117845,837821
+Lada Granta,Hybrid,Used,Krasnodar,2015,108210,150000
+Lada Niva,Hybrid,Good,St. Petersburg,2019,143971,347934
+Lada Granta,Electric,Excellent,Krasnodar,2022,115691,500543
+Hyundai Tucson,Petrol,Good,Samara,2022,50428,1198813
+Renault Logan,Petrol,Used,Novosibirsk,2012,154751,264645
+Hyundai Tucson,Hybrid,Fair,Samara,2010,113358,150000
+Skoda Kodiaq,Diesel,Excellent,Samara,2023,74755,1331798
+Nissan X-Trail,Electric,Used,Rostov,2012,283424,246354
+Nissan X-Trail,Hybrid,Used,Krasnodar,2019,82070,694472
+Lada Niva,Petrol,Good,St. Petersburg,2024,120075,614380
+Skoda Octavia,Electric,Good,Novosibirsk,2024,94823,1451462
+BMW X5,Electric,Used,Rostov,2013,238737,656490
+BMW X5,Electric,Used,Samara,2011,90803,638644
+Lada Vesta,Hybrid,Excellent,Krasnodar,2022,189584,379212
+Hyundai Solaris,Diesel,Fair,Rostov,2016,158148,444676
+Volkswagen Passat,Hybrid,Used,Moscow,2021,167396,886023
+Renault Duster,Hybrid,Good,Kazan,2015,72936,427089
+Nissan Qashqai,Diesel,Good,Ekaterinburg,2011,192508,292139
+Lada Niva,Electric,Used,Moscow,2012,31114,212220
+Kia Rio,Petrol,Fair,Kazan,2012,14053,354732
+Kia Sportage,Petrol,Used,Samara,2024,182383,1347196
+Hyundai Solaris,Diesel,Fair,Krasnodar,2023,226667,979539
+Skoda Octavia,Hybrid,Excellent,Ekaterinburg,2016,18937,557193
+Lada Vesta,Petrol,Excellent,Samara,2010,162842,150000
+Renault Sandero,Hybrid,Used,Kazan,2017,270026,601600
+Toyota Camry,Diesel,Good,Ekaterinburg,2024,187883,1362874
+Toyota Camry,Electric,Fair,Krasnodar,2013,145907,307145
+Lada Granta,Diesel,Used,Moscow,2013,110817,281093
+Hyundai Tucson,Hybrid,Excellent,Samara,2019,154517,815616
+Renault Duster,Diesel,Good,Moscow,2022,43616,1045560
+Toyota RAV4,Diesel,Used,Moscow,2017,88885,650377
+Kia K5,Diesel,Good,Novosibirsk,2018,264255,475582
+Nissan Juke,Electric,Used,Moscow,2023,272646,935379
+Hyundai Creta,Electric,Excellent,St. Petersburg,2010,78654,250090
+Renault Duster,Petrol,Fair,St. Petersburg,2010,226931,150000
+Renault Duster,Electric,Excellent,Kazan,2012,213089,156203
+BMW X5,Diesel,Excellent,Krasnodar,2012,107780,879168
+Nissan Qashqai,Petrol,Fair,Kazan,2022,153918,1144132
+Renault Logan,Hybrid,Used,Rostov,2016,140267,510872
+Mercedes-Benz E-Class,Electric,Used,Ekaterinburg,2014,277445,902514
+Volkswagen Passat,Diesel,Excellent,Novosibirsk,2012,208902,150000
+Mercedes-Benz GLE,Electric,Used,Rostov,2021,193656,2263994
+Volkswagen Polo,Electric,Good,Ekaterinburg,2017,31211,588227
+Volkswagen Passat,Petrol,Good,St. Petersburg,2016,242908,377112
+Skoda Octavia,Electric,Good,Krasnodar,2014,71076,368647
+Mercedes-Benz GLE,Hybrid,Fair,Ekaterinburg,2019,175646,1751598
+Skoda Kodiaq,Petrol,Excellent,Rostov,2014,78700,512341
+Renault Duster,Petrol,Fair,Novosibirsk,2010,281059,206383
+Toyota RAV4,Hybrid,Excellent,Novosibirsk,2019,142691,728289
+Lada Granta,Diesel,Used,Novosibirsk,2013,55119,158593
+Kia Rio,Diesel,Used,Krasnodar,2014,240046,483628
+BMW 3-Series,Hybrid,Good,Krasnodar,2016,226962,1147957
+BMW 5-Series,Diesel,Good,Moscow,2022,157311,2667033
+BMW 3-Series,Electric,Fair,Krasnodar,2017,288805,1176890
+Skoda Kodiaq,Electric,Excellent,Ekaterinburg,2021,152657,975726
+Nissan Qashqai,Petrol,Used,Novosibirsk,2016,93562,486533
+Renault Logan,Hybrid,Fair,Samara,2017,35934,590105
+Hyundai Solaris,Hybrid,Excellent,St. Petersburg,2017,250857,552455
+Kia K5,Diesel,Good,St. Petersburg,2024,201843,1155782
+Skoda Rapid,Hybrid,Good,Novosibirsk,2015,104757,394507
+Mercedes-Benz E-Class,Hybrid,Used,Rostov,2013,205907,766065
+Toyota Camry,Petrol,Excellent,St. Petersburg,2020,18793,765974
+BMW X5,Petrol,Good,Ekaterinburg,2013,167132,927716
+Kia K5,Electric,Good,Moscow,2023,165317,1098879
+Nissan Juke,Diesel,Used,Moscow,2018,135402,739173
+Mercedes-Benz E-Class,Electric,Used,Krasnodar,2020,178754,2048866
+Kia Rio,Hybrid,Good,Samara,2016,178030,373914
+Volkswagen Tiguan,Diesel,Excellent,Kazan,2018,69010,792715
+Hyundai Creta,Electric,Excellent,St. Petersburg,2017,218956,547935
+Kia Rio,Hybrid,Used,Ekaterinburg,2015,61106,313395
+Lada Vesta,Electric,Good,Samara,2020,232935,376626
+Renault Duster,Electric,Excellent,Samara,2014,32131,408323
+BMW 3-Series,Hybrid,Fair,Ekaterinburg,2021,12137,2626506
+Kia Sportage,Petrol,Excellent,Novosibirsk,2022,194156,992136
+Skoda Octavia,Electric,Good,Moscow,2024,165607,1386081
+Nissan X-Trail,Petrol,Excellent,Ekaterinburg,2020,207421,825069
+Volkswagen Polo,Petrol,Fair,Rostov,2010,220236,221285
+Lada Granta,Diesel,Good,Kazan,2014,24585,150000
+Hyundai Creta,Petrol,Good,St. Petersburg,2010,38471,163601
+Renault Sandero,Diesel,Fair,Kazan,2012,5145,189692
+Toyota Camry,Electric,Used,St. Petersburg,2024,52091,1411179
+Skoda Kodiaq,Electric,Excellent,Rostov,2016,131374,497301
+Toyota Camry,Hybrid,Used,Kazan,2018,13054,642195
+Renault Duster,Diesel,Excellent,Samara,2022,238826,934398
+Lada Vesta,Petrol,Good,Krasnodar,2018,240325,213242
+Skoda Kodiaq,Hybrid,Fair,Rostov,2020,126730,792045
+Volkswagen Tiguan,Diesel,Good,Ekaterinburg,2017,74461,549194
+Renault Sandero,Hybrid,Fair,Krasnodar,2017,252496,354843
+Renault Logan,Petrol,Excellent,St. Petersburg,2017,196382,538855
+Renault Sandero,Hybrid,Fair,Rostov,2011,210810,264761
+Skoda Kodiaq,Hybrid,Used,St. Petersburg,2016,66228,360191
+Kia Rio,Hybrid,Good,Novosibirsk,2023,227769,955367
+Nissan X-Trail,Diesel,Fair,Rostov,2024,229382,1260741
+Skoda Kodiaq,Electric,Good,Novosibirsk,2016,94996,441458
+Hyundai Creta,Diesel,Good,St. Petersburg,2016,270918,498241
+Kia Sportage,Hybrid,Used,Rostov,2010,178901,335768
+Renault Duster,Petrol,Used,Kazan,2017,176731,625217
+Volkswagen Tiguan,Hybrid,Fair,St. Petersburg,2012,201168,150000
+Renault Sandero,Hybrid,Used,Novosibirsk,2016,135762,594921
+Skoda Rapid,Hybrid,Good,Samara,2022,247934,938927
+Mercedes-Benz E-Class,Petrol,Used,Ekaterinburg,2014,275064,886375
+BMW 3-Series,Petrol,Excellent,Moscow,2022,43086,2881711
+Lada Niva,Petrol,Good,Moscow,2010,74769,150000
+BMW 5-Series,Hybrid,Good,St. Petersburg,2011,292196,539763
+Lada Niva,Petrol,Excellent,St. Petersburg,2010,6369,150000
+Renault Duster,Hybrid,Good,St. Petersburg,2012,79389,160679
+Skoda Rapid,Electric,Excellent,Krasnodar,2010,16685,358105
+Hyundai Tucson,Electric,Excellent,Rostov,2021,12676,970022
+Toyota Camry,Diesel,Fair,Krasnodar,2021,259526,929048
+Skoda Octavia,Diesel,Excellent,Novosibirsk,2010,123375,329345
+BMW 5-Series,Diesel,Fair,St. Petersburg,2019,259212,1511219
+Kia Rio,Electric,Good,Krasnodar,2014,265058,397322
+Lada Granta,Petrol,Excellent,Rostov,2018,201594,333584
+Volkswagen Tiguan,Hybrid,Fair,Krasnodar,2015,279441,436115
+Hyundai Tucson,Hybrid,Excellent,Kazan,2020,201886,795218
+Volkswagen Polo,Electric,Used,Kazan,2012,121118,188157
+Renault Duster,Electric,Excellent,Kazan,2011,18481,403498
+Mercedes-Benz E-Class,Petrol,Excellent,Kazan,2012,211587,700225
+Volkswagen Tiguan,Petrol,Excellent,St. Petersburg,2012,267752,229438
+Renault Duster,Diesel,Fair,Moscow,2023,52366,1212528
+Lada Niva,Petrol,Good,Novosibirsk,2020,155967,179784
+Hyundai Solaris,Electric,Used,St. Petersburg,2021,173554,739004
+Nissan Qashqai,Electric,Excellent,Kazan,2012,170634,170775
+Lada Vesta,Diesel,Good,St. Petersburg,2018,206274,247204
+Lada Niva,Petrol,Good,St. Petersburg,2013,150705,263971
+Nissan Juke,Diesel,Used,Rostov,2013,227639,197488
+Toyota RAV4,Petrol,Fair,Krasnodar,2023,275647,906699
+BMW 5-Series,Petrol,Fair,Novosibirsk,2020,38474,2225321
+Lada Vesta,Electric,Fair,Rostov,2011,100301,175575
+Toyota RAV4,Diesel,Used,Ekaterinburg,2012,121915,328183
+Kia Sportage,Petrol,Excellent,Ekaterinburg,2011,194897,219417
+Skoda Octavia,Petrol,Good,Novosibirsk,2023,270166,1007781
+Kia K5,Diesel,Good,Krasnodar,2014,19570,362413
+Mercedes-Benz E-Class,Diesel,Excellent,Samara,2014,204275,861291
+Lada Vesta,Electric,Excellent,Moscow,2022,193905,453050
+Volkswagen Tiguan,Diesel,Fair,Kazan,2021,16580,867858
+BMW 5-Series,Electric,Used,Samara,2024,115085,3326503
+Skoda Octavia,Diesel,Good,Kazan,2010,154678,217789
+BMW 5-Series,Diesel,Used,Ekaterinburg,2018,17315,1811961
+Hyundai Tucson,Electric,Fair,Rostov,2022,179096,1049807
+Kia Sportage,Petrol,Good,Moscow,2014,198981,229310
+Kia Rio,Hybrid,Fair,Novosibirsk,2013,212139,405198
+Hyundai Solaris,Petrol,Good,Krasnodar,2013,232012,329077
+Hyundai Solaris,Electric,Fair,Novosibirsk,2013,126876,460864
+Hyundai Solaris,Petrol,Excellent,Rostov,2015,56345,315588
+Nissan X-Trail,Diesel,Good,Ekaterinburg,2019,159436,778314
+Kia K5,Electric,Excellent,Samara,2021,223372,740562
+Mercedes-Benz E-Class,Electric,Fair,Krasnodar,2018,106022,1683433
+Kia Rio,Petrol,Good,St. Petersburg,2023,156706,1172263
+Renault Logan,Diesel,Used,Kazan,2012,185141,203155
+Renault Sandero,Petrol,Fair,Krasnodar,2013,147204,379321
+Toyota Corolla,Petrol,Good,Moscow,2010,99478,215495
+Nissan Juke,Petrol,Good,Ekaterinburg,2013,208983,200258
+Toyota Camry,Petrol,Excellent,Novosibirsk,2020,89399,927478
+Toyota Corolla,Electric,Used,Krasnodar,2018,50534,521805
+Skoda Kodiaq,Electric,Good,Ekaterinburg,2020,142627,889068
+Renault Sandero,Electric,Good,Ekaterinburg,2013,42613,330917
+BMW X5,Petrol,Used,Moscow,2016,149921,1184492
+Hyundai Solaris,Electric,Excellent,Moscow,2020,67050,882851
+Mercedes-Benz GLE,Petrol,Used,Moscow,2014,224034,923229
+Renault Sandero,Electric,Good,St. Petersburg,2020,150035,883318
+Kia Rio,Diesel,Used,Krasnodar,2018,86404,741482
+Mercedes-Benz C-Class,Diesel,Used,Rostov,2012,238570,787819
+Hyundai Creta,Diesel,Used,Kazan,2013,131484,371687
+Nissan Juke,Diesel,Fair,Novosibirsk,2022,220194,970463
+BMW 3-Series,Electric,Used,Kazan,2019,225008,1473746
+Nissan Juke,Diesel,Good,Kazan,2020,159115,777468
+Renault Sandero,Petrol,Good,Moscow,2019,20539,676905
+Nissan Qashqai,Hybrid,Used,Krasnodar,2020,121895,888846
+Renault Logan,Hybrid,Fair,St. Petersburg,2014,33834,303587
+Nissan Qashqai,Electric,Fair,Samara,2015,139137,358879
+BMW 5-Series,Hybrid,Fair,Kazan,2015,143421,958863
+Volkswagen Tiguan,Diesel,Good,Krasnodar,2020,221472,829702
+BMW 3-Series,Diesel,Good,Moscow,2017,245974,1141657
+Toyota RAV4,Diesel,Good,Rostov,2012,76291,314391
+Renault Duster,Electric,Fair,Moscow,2010,59650,180336
+Toyota Camry,Hybrid,Used,St. Petersburg,2017,297441,573922
+BMW X5,Diesel,Excellent,Kazan,2020,47982,2054155
+Hyundai Creta,Diesel,Excellent,Samara,2018,298770,654187
+Nissan Juke,Petrol,Excellent,Moscow,2024,124590,1350430
